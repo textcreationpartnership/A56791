@@ -1,0 +1,1069 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Jesus is God, or, The deity of Jesus Christ vindicated being an abstract of some sermons preach'd in the parish-church of St. James, Clerkenwell / by D. Pead.</title>
+            <author>Pead, Deuel, d. 1727.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 149 KB of XML-encoded text transcribed from 72 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56791</idno>
+            <idno type="STC">Wing P961</idno>
+            <idno type="STC">ESTC R1660</idno>
+            <idno type="EEBO-CITATION">13172934</idno>
+            <idno type="OCLC">ocm 13172934</idno>
+            <idno type="VID">98320</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56791)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98320)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 433:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Jesus is God, or, The deity of Jesus Christ vindicated being an abstract of some sermons preach'd in the parish-church of St. James, Clerkenwell / by D. Pead.</title>
+                  <author>Pead, Deuel, d. 1727.</author>
+               </titleStmt>
+               <extent>[16], 125 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Conyers ... and Will. Newton ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+                  <note>Marginal notes.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesus Christ --  Divinity --  Sermons.</term>
+               <term>Jesus Christ --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="imprimatur">
+            <pb facs="tcp:98320:1" rendition="simple:additions"/>
+            <p>Imprimatur.</p>
+            <closer>
+               <date>
+                  <hi>March</hi> 12th. 1693/4.</date>
+               <signed>Ra. Barker.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:98320:1"/>
+            <p>
+               <hi>JESUS</hi> is <hi>GOD:</hi> OR, THE DEITY OF <hi>Ieſus Chriſt</hi> VINDICATED.</p>
+            <p>Being an <hi>Abſtract</hi> of ſome <hi>Ser<g ref="char:EOLhyphen"/>mons</hi> Preach'd in the
+<hi>Pariſh-Church</hi> of St. <hi>James Clerkenwell,</hi> By <hi>D. Pead.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Heb. 10.23.</hi>
+               </bibl>
+               <p>Let us hold faſt the Pro<g ref="char:EOLhyphen"/>feſſion of our Faith, without Wavering.</p>
+            </q>
+            <p>
+               <hi>LONDON.</hi> Printed for <hi>George Conyers,</hi> at the <hi>Golden Ring;</hi> and <hi>Will. Newton,</hi> over againſt
+<hi>Bartholomew-Cloſe</hi> Gate, in <hi>Little Britain.</hi> 1694.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:98320:2"/>
+            <pb facs="tcp:98320:2"/>
+            <head>TO THE RIGHT HONOURABLE JOHN, EARL of <hi>CLARE,</hi> Baron
+<hi>Haughton</hi> of <hi>Haughton, Grace and Mercy from our Lord</hi> Jeſus Chriſt.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>THAT I Preſume to Uſher this <hi>Small Piece</hi> into the World under ſo Great a <hi>NAME,</hi> proceeds not from any Opini<g ref="char:EOLhyphen"/>on, that the
+<hi>Author,</hi> his <hi>La<g ref="char:EOLhyphen"/>bours,</hi>
+               <pb facs="tcp:98320:3"/>have Right to your Pa<g ref="char:EOLhyphen"/>tronage; But, having Receiv'd an Honour from your Lord<g ref="char:EOLhyphen"/>ſhip without Deſert, I was un<g ref="char:EOLhyphen"/>willing it ſhould be alſo with<g ref="char:EOLhyphen"/>out Gratitude.</p>
+            <p>The <hi>Subject</hi> of the follow<g ref="char:EOLhyphen"/>ing <hi>Diſcourſe (Jeſus Chriſt)</hi> is ſo Noble, ſo Uſeful, and Com<g ref="char:EOLhyphen"/>fortable, that it were Unpar<g ref="char:EOLhyphen"/>donable in me to doubt a Free and Candid Reception, ſeeing that he is
+<hi>Worthy of All Accep<g ref="char:EOLhyphen"/>tation;</hi> and, that God doth with this his SON,
+<hi>freely give the</hi> Worthy Receiver <hi>All things.</hi>
+            </p>
+            <p>A more <hi>Precious Pearl</hi> is not to be found: And, if
+<pb facs="tcp:98320:3"/>God ſhall vouchſafe ſo great a Bleſſing, that within your Noble Heart theſe Lines may kindle an Ambition for the PURCHASE, the way will be to Imitate the <hi>Merchant</hi> in the <hi>GOSPEL,</hi> to <hi>Sell all things to Make it.</hi>
+            </p>
+            <p>The Wealth, the Pleaſures, and the Honours of this World muſt be Sold, Diſmiſſed, and Parted with, if ever they ſhall dare to ſtand in Com<g ref="char:EOLhyphen"/>petition with the Riches of his GRACE, or in the leaſt attempt to draw away the Heart from his Love and Ser<g ref="char:EOLhyphen"/>vice.</p>
+            <pb facs="tcp:98320:4"/>
+            <p>He that would be Purcha<g ref="char:EOLhyphen"/>ſer of this INESTIM BLE MERCHANDICE, muſt ſell All, muſt tread under-foot all Opinion of Self-Righte<g ref="char:EOLhyphen"/>ouſneſs, or Merit, and with a Lively Faith lay hold on the Sufficiency of his Righ<g ref="char:EOLhyphen"/>teouſneſs onely: He muſt Sell All; he muſt Devote his Time, Health, Eſtate, Parts, Life, and all that he is, or hath, to Advance the Ho<g ref="char:EOLhyphen"/>nour, Glory, and Praiſe of the Son of God <hi>Jeſus Chriſt,</hi> and of the <hi>Father</hi> through him.</p>
+            <p>Hoping to be ſomewhat Serviceable to ſo Pious, yet
+<pb facs="tcp:98320:4"/>Difficult Undertakings, theſe Following Lines are Moſt Humbly Preſented; thereby intending, not onely your PERSONAL, but the Ge<g ref="char:EOLhyphen"/>neral Advantage.</p>
+            <p>While others, from your Unſhaken Faith in, and Con<g ref="char:EOLhyphen"/>ſtant Obedience to, the ever Bleſſed <hi>JES<g ref="char:V">Ʋ</g>S,</hi> may ob<g ref="char:EOLhyphen"/>ſerve, that though it be Hard, yet it is not Impoſ<g ref="char:EOLhyphen"/>ſible for the <hi>Rich to enter into the KINGDOM of GOD.</hi>
+            </p>
+            <p>Where, in God's Time, may your Temporary Co<g ref="char:EOLhyphen"/>ronet
+<pb facs="tcp:98320:5"/>be Exchanged into an Incorruptible <hi>CROWN of GLORY,</hi> is the Humble <hi>Prayer</hi> of,</p>
+            <closer>
+               <signed>
+                  <hi>Your Honours Moſt Faithful, and Moſt Obedient</hi> Chaplain, <hi>D. Pead.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:98320:5"/>
+            <head>For the <hi>PARITIONERS,</hi> Eſpecially of S<hi rend="sup">t.</hi> 
+               <hi>James</hi>'s
+<hi>Clerk<g ref="char:EOLhyphen"/>enwell,</hi> as likewiſe, any other into whoſe Hands this Book ſhall come, the Author hear<g ref="char:EOLhyphen"/>tily prays growth in Grace and the Knowledge of our Lord and Saviour Jeſus Chriſt.</head>
+            <p>I Am not inſenſible what Hazards he runs, who in this Nature ap<g ref="char:EOLhyphen"/>pears in
+<hi>Publick;</hi> the Critical <hi>Remarks</hi> and <hi>Reflections</hi> which daily come forth, are warning enough to all that indulge their peace to keep within; but when I conſider how rea<g ref="char:EOLhyphen"/>dy the faithful Shepherd is to adven<g ref="char:EOLhyphen"/>ture his Life for his Sheep, I dare not judge the fear or fore-ſight of Cen<g ref="char:EOLhyphen"/>ſure and Cavils ſufficient to ſuppreſs my Endeavours for the General Good,
+<pb facs="tcp:98320:6"/>much leſs to keep from the Light this which you once having heard with the Ear, now deſire may be open to the Eye. We live if not in the last, yet to be ſure in the looſeſt of times, wherein our Saviour's Prediction, as alſo that of the Apoſtles is exactly accompliſhed; Truth is already pout up and trampled under Foot of Errour and Falſehood, Hypo<g ref="char:EOLhyphen"/>criſie hath got the upper hand of Religi<g ref="char:EOLhyphen"/>on, and it is now ſo much out of Faſhi<g ref="char:EOLhyphen"/>on to be really Good, that Men are ſhy of but appearing ſo, and therefore take great care to prevent the leaſt ſuſpicion thereof.</p>
+            <p>Piety, Sobriety, and Vertue are con<g ref="char:EOLhyphen"/>demn'd as infallible ſigns of a
+<hi>Phana<g ref="char:EOLhyphen"/>tick;</hi> but exceſs in Drinking, Pride in Apparel and Behaviour, Ranting and Swearing, Leudneſs and Vanity in Diſ<g ref="char:EOLhyphen"/>courſe are taken for the effects of Chri<g ref="char:EOLhyphen"/>ſtian <hi>Liberty,</hi> and the ſureſt marks of
+<hi>Loyalty.</hi>
+            </p>
+            <p>This corruption of Manners among Christians calls loud for a Deluge of Tears, that a Deluge of Judgments waſh us not away: But though this be
+<pb facs="tcp:98320:6"/>as I noted deplorable, yet in our Age the Devil ſeems to ſtrive for the com<g ref="char:EOLhyphen"/>pleat Victory. His Envy at God's Glory was formerly ſatisfied in behold<g ref="char:EOLhyphen"/>ing Men to Prophane the Days, to de<g ref="char:EOLhyphen"/>ſpiſe the Word and Ordinances, and to Blaſpheme the Name of God with vari<g ref="char:EOLhyphen"/>ous Oaths and Imprecations; but now although they are moſt deſperately im<g ref="char:EOLhyphen"/>prov'd in theſe, yet his Arms are high<g ref="char:EOLhyphen"/>er: for he and his Agents have dared openly to Impugne the
+<hi>Trinity,</hi> and deny the <hi>Deity</hi> of our Bleſſed Saviour, Time was the <hi>Jew</hi> for his barbarous Rejecting the <hi>Meſſiah</hi> was every where look'd upon with an evil Eye, (though by what means I know not they have rooſted among us till we ſee our Faith as much corrupted as our Coin) but it were a ſhame to be Angry with them, when Profeſſours do the ſame.</p>
+            <p>I confeſs for my own part, could I be once perſwaded to doubt whether Jeſus Chriſt the Son of the Virgin <hi>Mary</hi> were God, I ſee not which way to find Sence or Comfort in the reſt of the <hi>Creed.</hi> It muſt be terrible to think of God cut of
+<pb facs="tcp:98320:7"/>Christ, and but fondneſs to believe him Reconcil'd through Chriſt, if this Chriſt were not God as well as Man; I highly Reverence the Wiſdom and Piety of the Honourable <hi>Houſe of Parliament</hi> which condemn'd that late Helliſh <hi>Pamphlet</hi> to the Flames in ſo ignominious a Man<g ref="char:EOLhyphen"/>ner; but it is my judgment, the Son of God himſelf hath alſo more ſufficiently Vindicated his doubted Deity, in that ſignal Cure wrought much about the ſame time upon the Cripple; for it was Faith in his Name only which hath brought this ſtrange thing to paſs, that we have ſeen even in our Days. I am not free, nor do I think it neceſſary, to engage in the justifying this to be according to the ex<g ref="char:EOLhyphen"/>acteſt Rules, of a Miracle; nor will I be ſo raſh on the other hand, to deny its being one, for though I find where the firſt and ſecond Miracle that Jeſus wrought are Recorded, yet I no where find the laſt that ſhall be; this were not only to rob our Faith and fervent Pray<g ref="char:EOLhyphen"/>ers of the Efficacy we are told is in them; but to determine that Divine preſence which was promiſed ſhould continue to
+<pb facs="tcp:98320:7"/>the end. I have not been large upon this Point, becauſe my chief Deſign was to furniſh you with an Antidote againſt the poiſon of Theiſm which hath ſo much infected this Generation. From my weak Labours I hope you may gather ſome ſtrength to help you in contending for the Faith deliver'd unto the Saints, and now greviouſly aſſaulted by incarnate Devils. An unconcernedneſs in this great Quarrel I could not diſpenſe with, be<g ref="char:EOLhyphen"/>cauſe I obſerve that every Faithful Am<g ref="char:EOLhyphen"/>baſſadour no ſooner diſcovers a Reflexi<g ref="char:EOLhyphen"/>on upon his Prince's Honour, but that he is uneaſie and reſtleſs, till it be adjudg<g ref="char:EOLhyphen"/>ed and condemned, be the matter never ſo notoriouſly true; how then can I doe leſs but endeavour to Right and <g ref="char:V">Ʋ</g>phold the Honour of the King of Glory, whoſe Ambaſſadour to you I profeſs my ſelf to he, and my hopes are that others that are in the ſame Commiſſion with my ſelf, eſpecially they to whom the head of the Church, Christ Jeſus, hath committed greater Talents, will alſo put ſome of theirs into this Bank, that at this Time, and in this Caſe, our Lord may have
+<pb facs="tcp:98320:8"/>his own with uſury. Now unto hint that is able to keep you from falling, and to preſent you faultleſs before the preſence of his Glory with exceeding Joy, to the only wiſe God our Saviour, be Glory and Majeſty, Dominion and Power, now and ever. Amen.</p>
+            <closer>
+               <signed>
+                  <hi>Your Servant for Jeſus's Sake.</hi> D. Pead.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="abstract">
+            <pb n="1" facs="tcp:98320:8"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Matthew XIII. 58.</hi>
+                  </bibl>
+                  <p>And he did not many Mighty Works there, becauſe of their <g ref="char:V">Ʋ</g>nbelief.</p>
+               </q>
+            </epigraph>
+            <p>GOD is Immutable, the ſame yeſterday, to day, and for ever: Old<note n="*" place="margin">1 Sam. 2.30.</note> 
+               <hi>Eli</hi> was told, <hi>Them that ho<g ref="char:EOLhyphen"/>nour me, I will honour; and they that deſpiſe me; ſhall be lightly eſteemed:</hi> Which, to him, did import, That ſeeing the ex<g ref="char:EOLhyphen"/>traordinary Exaltation of his Family to the Prieſthood, had not produc'd that Reverence and Sanctity as was expected, he ſhould not look for any farther encreaſe, nor yet a continua<g ref="char:EOLhyphen"/>tion, but rather a ſhort enjoyment of what he had already obtain'd. In like manner, though the Son of God had honoured <hi>Nazareth</hi> with his Concep<g ref="char:EOLhyphen"/>tion and Education, yet her Inhabitants
+<pb n="2" facs="tcp:98320:9"/>not Re-honouring him with their Faith and Love, they were told, That he would turn the courſe of his Fa<g ref="char:EOLhyphen"/>vour, and beſtow his Miracles, and Extraordinary Works upon remoter Places, for ſo ſaith the Text, <hi>He did not many mighty works there,</hi> viz. in <hi>Nazareth, becauſe of their unbelief.</hi>
+            </p>
+            <p>We read of a certain Cripple mira<g ref="char:EOLhyphen"/>culouſly cured by <hi>Peter</hi> and
+<hi>John</hi>
+               <note n="†" place="margin">Acts 3.</note>: The healed rejoyced not ſo much in his reſtored Limbs, as the <hi>Prieſts</hi> and
+<hi>Sadduces</hi> were tormented to behold the Power of that Name they had made ſo contemptible; and therefore though they had not the Impudence to deny, yet they hoped they had ſtill power to ſuppreſs the ſpreading a<g ref="char:EOLhyphen"/>broad the fame of the Miracle, and prevent the encreaſing of the Faith of the Crucified
+<hi>Jeſus.</hi> To this in<g ref="char:EOLhyphen"/>tent<note n="*" place="margin">Acts 4.5, 6.</note>, the Rulers, Elders and Scribes, <hi>Annas, Caiphas, John, Alexander,</hi> and ſuch of the Kindred of the High Prieſt, as were Privileged to ſit in the
+<hi>San<g ref="char:EOLhyphen"/>hedrim,</hi> met and Conſulted what was moſt expedient to do, ſeeing ſo nota<g ref="char:EOLhyphen"/>ble
+<pb n="3" facs="tcp:98320:9"/>a Miracle indeed was done; and conſidering that not onely the Cap<g ref="char:EOLhyphen"/>tain, whoſe place, (to prevent Tumult and Sedition) was at the Porches of the Temple, and thence was called<note n="*" place="margin">Luke
+22.52.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the Captain of the Temple, muſt neceſſarily be privy to it, in that this poor Cripple was one of them that lay daily in <hi>Solomon</hi>'s <hi>Porch:</hi> but alſo that all who dwelt at <hi>Jeruſalem</hi> knew it by ſight, or hear<g ref="char:EOLhyphen"/>ſay, it was lookt upon as more diffi<g ref="char:EOLhyphen"/>cult to obſcure it; they did, no doubt, remember, that once they had the luck to find a pack of Souldiers, who, for a little Money, did belye their eyes, and Swore down the Reſurrection; but now, all the Souldiers in the World, though their Tongues as well as Swords could pierce through an Inch Board, were not able to Stab this Miracle to death; it would live, for it was a notable Miracle, ſuch an one as every one had ſet down in their Note-Books; ſo that all they find they can do, is to Command the not Teaching, or Acting any farther in
+<pb n="4" facs="tcp:98320:10"/>this Name; as if they had ſaid, The matter is ſo plain, we cannot for ſhame deny it, yet for fear our Infidelity be expoſed, we will do our beſt that it be forgot.</p>
+            <p>Thus earneſt have the Devil and the World ever been to ſtifle Good<g ref="char:EOLhyphen"/>neſs, and to render as much as in them lay, the Means of Grace ineffectual; if they cannot ſtop up the Fountain of Life, yet they will endeavour to defile, or conceal the Streams iſſuing thence, leaſt men, by Drinking, ſhould find ſuch a Spring of Comfort, as was not likely to dry up, till they came from Believing to Fruition.</p>
+            <p>The Fore-cited Miracle hath even in our days been in divers particulars parallell'd.</p>
+            <p>A Cripple from her Birth, I mean not ſo born, but one that had an in<g ref="char:EOLhyphen"/>veterate Lameneſs from her Cradle; a Cripple that did frequent the Tem<g ref="char:EOLhyphen"/>ple, more for Devotion than Alms, this Cripple is now by Faith in
+<hi>Jeſus Chriſt</hi> onely, ſtanding whole before us, as it is Written,<note n="*" place="margin">Acts 3.16.</note> 
+               <hi>the Name of Je<g ref="char:EOLhyphen"/>ſus,</hi>
+               <pb n="5" facs="tcp:98320:10"/>i. e. Faith in his Name, hath gi<g ref="char:EOLhyphen"/>ven her perfect ſoundneſs: And, in this caſe, there can be no Colluſion neither, it being done in the preſence of us all.</p>
+            <p>If I may not for fear of incurring the Cenſure of the Nice and Curious, term this a Miracle, yet I may call it a Wonderful Work, a Signal Honour done to the Place and Age, as alſo a Great Help (if rightly conſidered and well apply'd) to awaken the Obſtinate <hi>Jew,</hi> and reform the Vain and Diſſolute <hi>Chriſtian,</hi> who by Pro<g ref="char:EOLhyphen"/>phaneneſs, Hypocriſie and Infidelity, hath too long Blaſphemed the Holy Name of <hi>Jeſus.</hi>
+            </p>
+            <p>
+               <hi>He did not many mighty works there, becauſe of their unbelief.</hi>
+            </p>
+            <p>In which words we cannot but obſerve theſe Two Parts;</p>
+            <p>
+               <hi>Firſt,</hi> That there was a Time and Place, When and Where the Holy
+<hi>Je<g ref="char:EOLhyphen"/>ſus</hi> refuſed to do <hi>Mighty Works,</hi> or
+<hi>Miracles.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> The Reaſon, <hi>Becauſe of their unbelief.</hi>
+            </p>
+            <pb n="6" facs="tcp:98320:11"/>
+            <p>In ſpeaking to the former of theſe, Three Enquiries muſt be made,
+<hi>viz.</hi>
+               <list>
+                  <item>1. What a Miracle is.</item>
+                  <item>2. How we may know a True Miracle from a Falſe.</item>
+                  <item>3. What is the uſe or end of Mi<g ref="char:EOLhyphen"/>racles; how far they are ne<g ref="char:EOLhyphen"/>ceſſary, and where not.</item>
+               </list>
+            </p>
+            <p>In ſpeaking to the latter Branch of the Text, <hi>The Reaſon;</hi> Two other En<g ref="char:EOLhyphen"/>quiries will ariſe, <hi>viz.</hi>
+            </p>
+            <p>Firſt, What is meant by Unbelief, or wherein their Unbelief did conſiſt.</p>
+            <p>Secondly, How it was poſſible for a People that had ſuch plenty of Means for their Conviction, to perſiſt in their Unbelief.</p>
+            <p>Little will here be related in refe<g ref="char:EOLhyphen"/>rence to moſt of theſe particulars; the chief deſign of this Book's appearing abroad, being contained in one onely, which, in its place, I ſhall more large<g ref="char:EOLhyphen"/>ly inſiſt on.</p>
+            <p>
+               <hi>Firſt,</hi> There was a Time and Place, When and Where, the Holy
+<hi>Jeſus</hi> re<g ref="char:EOLhyphen"/>fuſed to do his Mighty Works, or Mi<g ref="char:EOLhyphen"/>racles. It is an undoubted Truth, that
+<pb n="7" facs="tcp:98320:11"/>our Saviour, during his abode in the Fleſh, went about doing good; yet he made a Diſcrimination, and would not ſow the Barren Sands, but having an eye to his Father's Glory, as well as to the Peoples Neceſſities, where<g ref="char:EOLhyphen"/>ever he ſaw the former not like to be effected, his Zeal overcame his Pity, and he left ſuch Places and Perſons Neglected.</p>
+            <p>
+               <hi>Jeruſalem, Bethſaida, Chorazin</hi> and <hi>Capernaum,</hi> had his Doctrine, and be<g ref="char:EOLhyphen"/>held his Miracles after a Plentiful manner :At
+<hi>Bethſaida</hi> particularly he was ſo Converſant in Teaching and Working Mighty Works, that he Ga<g ref="char:EOLhyphen"/>thered Five <hi>Apoſtles</hi> there,
+<hi>viz. Peter, Andrew, John, James</hi> and <hi>Philip. Ca<g ref="char:EOLhyphen"/>pernaum</hi> alſo was Highly Exalted by his Miracles, for there the <hi>Centurion</hi>'s Servant, and the <hi>Nobleman</hi>'s Son were healed; there the <hi>Paralytick,</hi> and the <hi>Woman</hi> with the <hi>Bloody-Iſſue</hi> were Cured, and the Ruler of the <hi>Syna<g ref="char:EOLhyphen"/>gogue</hi>'s onely Daughter were Raiſed to Life; yet, in the mean time, <hi>Tyre</hi> and <hi>Sidon,</hi> two Ancient and Renowned
+<pb n="8" facs="tcp:98320:12"/>Cities, not far diſtant from <hi>Jeruſalem,</hi> were not alike Honoured, as appears,<note n="*" place="margin">Matt. 11.21.</note> and we hear them of <hi>Nazareth</hi> im<g ref="char:EOLhyphen"/>portuning him to Parallel among them the Miracles he had done at <hi>Capernaum,</hi> and elſewhere, but were not Anſwered in that they Prayed for. This is ſo plain to all that Converſe with <hi>Scripture,</hi> that the labour of far<g ref="char:EOLhyphen"/>ther Quotations may be ſpared; I paſs therefore to the Firſt Enquiry,</p>
+            <p n="1">1. What a Miracle is.</p>
+            <p>We Read in <hi>Scripture,</hi> of Signs, Wonders and Miracles, in either of which is a great difference.</p>
+            <p>A Sign is ſome outward ſenſible thing, by which ſome other thing is brought to Mind; to this purpoſe<note n="†" place="margin">Matt. 16.1,
+2.3.</note> the <hi>Phariſees</hi> and <hi>Sadduces</hi> requeſted of our Saviour a Sign; that is, the doing ſome notable thing, whereby they might be convinc'd that he was the <hi>Meſſiah.</hi> That this was their meaning, is evident from the Reply; for they were told, that they could from the Face and Appearance of the Sky, and from the Colour of the Clouds, Col<g ref="char:EOLhyphen"/>lect
+<pb n="9" facs="tcp:98320:12"/>what Weather was coming, and therefore he admir'd they could not as well diſcern the Sign of the Times; for had they been as obſervant of Scripture, as they were of the Hea<g ref="char:EOLhyphen"/>vens, they could not but have known by the Signs there foretold, and now full fill'd, that this muſt be the exact time of the <hi>Meſſiah</hi>'s coming, and had they judiciouſly ſcann'd his Doctrine and Doings, theſe were ſo correſpon<g ref="char:EOLhyphen"/>dent to the
+<hi>Types,</hi> that they muſt have concluded them infallible Signs of his being the <hi>Meſſiah.</hi>
+            </p>
+            <p>A Wonder is nature greatly im<g ref="char:EOLhyphen"/>prov'd, and is called a Wonder, either that it is worthy of Admiration for its rareneſs or greatneſs. I cannot foreſee any cauſe of reproof, ſhould I ſay that Signs and Wonders <hi>(Deo per<g ref="char:EOLhyphen"/>mittente)</hi> are in the power of Devils to effect; for if the Art of Man can heighten natural things to the wonder and admiration of others, the ſubtilty of <hi>Satan</hi> may be allowed to be capa<g ref="char:EOLhyphen"/>ble of heightening them much more and eaſier.</p>
+            <pb n="10" facs="tcp:98320:13"/>
+            <p>Under the Notion of Wonders, we may comprehend the Great and Glo<g ref="char:EOLhyphen"/>rious Works of God, the making of the Heavens, the founding of the Earth upon no other
+<hi>Baſis</hi> than his Provi<g ref="char:EOLhyphen"/>dence, the making thoſe great Lights, the Sun, Moon and Stars, and all his Works of Providence, and our Eyes may daily ſee one of the Wonders of his Power, to wit, that a ſingle and dead grain of Corn, ſhould ſometimes multiply into Thirty, Sixty or an Hundred Fold.</p>
+            <p>A Miracle is a work of God, for though Man may be the inſtrumen<g ref="char:EOLhyphen"/>tal cauſe whereby, yet is he not the Original cauſe which effects a Mira<g ref="char:EOLhyphen"/>cle, but every Miracle is effected and brought to paſs by Divine Power on<g ref="char:EOLhyphen"/>ly; a Miracle is of two ſorts, fome<g ref="char:EOLhyphen"/>times the Operation tranſcends the Power of all ſecond Cauſes, as Sight given to ſuch as were born Blind, or raiſing the Dead to life; ſometimes it lies within the Power of ſecond Cauſes, yet they are not employed as when Diſeaſes and Infirmities are cured with<g ref="char:EOLhyphen"/>out
+<pb n="11" facs="tcp:98320:13"/>means, which it was poſſible, due application of means in time might have effected.</p>
+            <p>A Miracle is a work of God, and in Hebrew takes its Name from a Root
+<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſignifying to Separate, for ſuch works are ſeparated or removed from Man.</p>
+            <p>
+               <hi>Firſt,</hi> In reſpect of his Reaſon be<g ref="char:EOLhyphen"/>ing not acquainted with their proper and poſitive Cauſes, humane reaſon is too ſhort to Fathom ſuch an Abyſs.</p>
+            <p>
+               <hi>Secondly,</hi> In reſpect of our Senſes, my meaning is, that though the thing wrought be diſcernible, as in the fore<g ref="char:EOLhyphen"/>cited inſtance: <hi>She now walketh up<g ref="char:EOLhyphen"/>right that could not before;</hi> yet the power that brought this work about, and the manner of bringing it about, are imperceptible to our Senſes, which well conſidered, the <hi>Romaniſts</hi> have not ſo fair pretences for their Mira<g ref="char:EOLhyphen"/>cle of Tranſubſtantiation; for not only is the power and ways of effe<g ref="char:EOLhyphen"/>cting it Myſterious and Indiſcernible, but the Work, as they ſay, Wrought, ſurpaſſes our ſenſitive Underſtanding,
+<pb n="12" facs="tcp:98320:14"/>we can neither ſee it, feel it, or taſte it, and therefore ſhould be but Block-heads to believe it an inviſible Miracle.</p>
+            <p>
+               <hi>Thirdly,</hi> In reſpect of our imitati<g ref="char:EOLhyphen"/>on, there can be ſo little probability of parallelling that, of whoſe cauſe and way of doing it we profeſs our ſelves wholly ignorant.</p>
+            <p n="2">2. The next enquiry was, how we may diſtinguiſh between a true Mira<g ref="char:EOLhyphen"/>cle and a pretended one.</p>
+            <p>The Devil by his great Subtilty and Agility, may ſometimes for the promotion of his own ends, aſſiſt e<g ref="char:EOLhyphen"/>vil men in the doing ſome great and ſtrange things reſembling Miracles, which if really examined come far ſhort; this evil Spirit can pry into the fertile Womb of Nature, and there find out the Seeds or Begin<g ref="char:EOLhyphen"/>nings of things, and underſtanding the different Qualities and Operations, their Sympathies and Antipathies he can ſo temper and apply them as to counterfeit a Miracle, but a real one he cannot produce, it requiring a Di<g ref="char:EOLhyphen"/>vine Power to act beyond, above or
+<pb n="13" facs="tcp:98320:14"/>contrary to Nature; there is no doubt by his aid, the Magicians of <hi>AEgypt</hi> did many curious things, yet not real Miracles. In this caſe, that we may make a right Judgment, we have ſome neceſſary Rules.</p>
+            <p>
+               <hi>Firſt,</hi> The firſt thing that ought to be conſidered, in order of trying or judging of a Miracle, is the power whereby it is wrought; in whatſoe|'er is real <hi>Digitus Dei diſcernitur,</hi> we may diſcover the Finger or Power of God. Other Operations, though Per<g ref="char:EOLhyphen"/>adventure wonderful, are brought a<g ref="char:EOLhyphen"/>bout by natural means, ſuch as Slight, Wit, Skill and the like, or elſe by the help of <hi>Satan.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> The Agents or Perſons: Thoſe concern'd in the Operation of Miracles, are ordinarily Holy and Ver<g ref="char:EOLhyphen"/>tuous, while about the counterfeit Ma<g ref="char:EOLhyphen"/>gicians, Sorcerers, Conjurers, Witches and other evil Perſons are generally the chief.</p>
+            <p>
+               <hi>Thirdly,</hi> The manner of Working: Between the true and pretended Mi<g ref="char:EOLhyphen"/>racles is very great difference, as to
+<pb n="14" facs="tcp:98320:15"/>their ways of bringing about. The real are not under the power of any other means, but what are Lawfull, Good and Holy; ſuch as Faith, Faſt<g ref="char:EOLhyphen"/>ing, Prayer and Invocation of the Name of Jeſus, whereas about the pretended, Charms, Inchantments and Superſtitious Methods are obſerved.</p>
+            <p>
+               <hi>Fourthly,</hi> The end alſo muſt be well weighed: The pretended are ever done to deceive and miſlead, or in hopes of worldly applauſe and profit; but the end and purpoſe of real Miracles is to advance the Glory of God, to honour the Name and Power of Jeſus Chriſt, to confirm the Faith. To defend and relieve the Church of Chriſt in Gene<g ref="char:EOLhyphen"/>ral, or ſome of its diſtreſſed Members, as alſo to awaken the ſtupid to Re<g ref="char:EOLhyphen"/>pentance and newneſs of Life.</p>
+            <p n="3">3. The next Enquiry is, What is the uſe or end of Miracles, how far they are neceſſary and where not?</p>
+            <p>When God was pleaſed to ſend ſome extraordinary Meſſengers into the World, upon a Religious Account to give Holy Laws, or reform unholy
+<pb n="15" facs="tcp:98320:15"/>Manners, to conciliate them Power and Credit convenient to their Em<g ref="char:EOLhyphen"/>ploy, he did condeſcend to entruſt them with the power of working Mi<g ref="char:EOLhyphen"/>racles, as is deducible from the caſe of <hi>Moſes</hi> and the Prophets
+<hi>Elijah</hi> and <hi>Eliſha;</hi> it being expected from the People to whom they were ſent; that they ſhould believe and obey them, it was neceſſary, that they ſhould have this extraordinary power of effecting things above and contrary to Nature, thereby to induce the Peoples Faith; for had not the People had the Argu<g ref="char:EOLhyphen"/>ment of miraculous Power to con<g ref="char:EOLhyphen"/>vince them of the Commiſſion of the Miniſters, and conſequently what com<g ref="char:EOLhyphen"/>pliance was due unto them, they could not ſo juſtly have been charged with Infidelity as Ignorance.</p>
+            <p>In proceſs of Time, when the Ce<g ref="char:EOLhyphen"/>remonial Law was to be aboliſh'd, when all <hi>Types</hi> were to ceaſe the ſub<g ref="char:EOLhyphen"/>ſtance being come, that an eaſier and ready way might be made for that new Diſpenſation of the Goſpel; Chriſt and his Apoſtles had a full
+<pb n="16" facs="tcp:98320:16"/>power of working Miracles for the ſame end to create Faith in them that ſhould ſee and hear them. Thus far Mi<g ref="char:EOLhyphen"/>racles were of uſe, but now the Will and Mind of God being fully reveal'd to us in Holy Scriptures, which thro' a Miracle of his Providence are conti<g ref="char:EOLhyphen"/>nued to us, Miracles appear not far<g ref="char:EOLhyphen"/>ther neceſſary to this end.</p>
+            <p>Yet there being other ends and in<g ref="char:EOLhyphen"/>tentions in Miracles, beſides the con<g ref="char:EOLhyphen"/>firming and propagating Religion, I ſee no reaſon why any one ſhould conclude all Miracles ceaſed. It were great raſh<g ref="char:EOLhyphen"/>neſs to expect the great and mighty God ſhould proſtitute his Miracles to gratifie Mens curioſity; and as dero<g ref="char:EOLhyphen"/>gatory, I take it to he to his Goodneſs to deny that he ſhall ſometimes ſtep a little out of the courſe of his ordina<g ref="char:EOLhyphen"/>ry Providence, and do ſome mighty Work above the power of Nature; when he is pleaſed either to defend his Church, fore-warn a ſinfull Nation, or Vindicate the Honour of the Bleſ<g ref="char:EOLhyphen"/>ſed Jeſus, whoſe Name and Deity are Blaſphem'd by
+<hi>Jews</hi> and <hi>Atheiſts.</hi>
+            </p>
+            <p>
+               <pb n="17" facs="tcp:98320:16"/> In ſhort, to deny all farther Mira<g ref="char:EOLhyphen"/>cles, muſt, at leaſt ſeemingly, reflect upon the Honour of God, as if his Goodneſs were Exhauſted, or his Pow<g ref="char:EOLhyphen"/>er Shortened; it muſt ſtraiten the Pro<g ref="char:EOLhyphen"/>miſe of
+<hi>Chriſt,</hi> and bring it into a nar<g ref="char:EOLhyphen"/>rower compaſs than was at firſt inten<g ref="char:EOLhyphen"/>ded; he having promiſed thoſe Per<g ref="char:EOLhyphen"/>ſons on whom he had beſtowed ſuff<g ref="char:EOLhyphen"/>cient Power of Working Miracles, to be with them to the end of the World; that is, not onely with Them, but their Succeſſors; and how this Pro<g ref="char:EOLhyphen"/>miſe ſhall be underſtood, diſtinct from the Power and Privilege he engaged, <hi>to be with it,</hi> I confeſs I ſee not: They that are fearful, that New Miracles might bring the Old into Contempt, may be pleaſed to conſider in the Primitive days of the Church, we have an Account of Miraculous things done by the Elders, who were no Apoſtles, as Healing the Sick by a Faithful and Fervent Prayer; it is my opinion, had not the World declin'd in Piety and Devotion, that Power had not ſo pal<g ref="char:EOLhyphen"/>pably decay'd; Why ſhould it ſeem
+<pb n="18" facs="tcp:98320:17"/>improbable, that Miracles ſhould now be done, when God has ſtill left us the moſt Effectual Means thereunto, <hi>viz. Faith</hi> and <hi>Prayer?</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> The Second Branch of the Text was the cauſe of
+<hi>Jeſus</hi>'s <hi>not doing mighty works among them,</hi> which is Aſſign'd to be, <hi>their unbelief.</hi> Here,</p>
+            <p n="1">I. We are firſt to enquire what their <hi>unbelief</hi> was, or wherein it did conſiſt. The <hi>Anſwer</hi> muſt be, there were Four Principal Points, or Arguments of their Infidelity.</p>
+            <p>
+               <hi>Firſt,</hi> They Miſinterpreted the Power by which he Wrought, inſtead of Aſcribing it to <hi>God,</hi> they Interpret<g ref="char:EOLhyphen"/>ed it to be of
+<hi>Satan.</hi>
+            </p>
+            <p>They rather choſe to Proclaim themſelves Fools, by Aſſerting a Con<g ref="char:EOLhyphen"/>tradiction, holding, <hi>That Satan did caſt out Satan,</hi> than ſubmit to Aſcribe <hi>to God, the Honour due unto his Name.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> They did not <hi>Believe;</hi> for notwithſtanding all they heard and ſaw, they continued Impenitent, and Unreformed.</p>
+            <pb n="19" facs="tcp:98320:17"/>
+            <p>
+               <hi>Thirdly,</hi> Their <hi>
+                  <g ref="char:V">Ʋ</g>nbelief</hi> was ſo great, as to Reject the
+<hi>Goſpel,</hi> which was the <hi>Glad Tidings of Salvation;</hi> they had rather abide by <hi>the Law of Works,</hi> than Embrace the <hi>Conditions of Faith and Repentance.</hi>
+            </p>
+            <p>
+               <hi>Fourthly,</hi> Their <hi>
+                  <g ref="char:V">Ʋ</g>nbelief</hi> was, That notwithſtanding ſo clear Light, and Manifeſtations, they would not ac<g ref="char:EOLhyphen"/>knowledge the
+<hi>Deity of Chriſt,</hi> their eyes were ſo intent upon the <hi>Veil of his Fleſh,</hi> that they could not pierce through it, and Contemplate
+<hi>his God-head;</hi> ſome had ſuch Opinions, as to hold him to be
+<hi>John the Baptiſt,</hi> ſome <hi>Elias,</hi> others <hi>Jeremias, or one of the Prophets</hi> (for they were <hi>Pythagoreans,</hi> and Believ'd the
+<hi>Tranſmigration of Souls,</hi> by them called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> a Removal from Veſſel to Veſſel) but none of them Believed him, when he ſaid, <hi>He came from God,</hi> and that <hi>He and the Father were One.</hi>
+            </p>
+            <p>Now, before I purſue the Intended Deſign of this <hi>Book,</hi> I ſhall briefly declare ſome Reaſons which made it poſſible for the
+<hi>Jews</hi> to Continue <hi>in
+<pb n="20" facs="tcp:98320:18"/>
+                  <g ref="char:V">Ʋ</g>nbelief,</hi> notwithſtanding ſuch Plen<g ref="char:EOLhyphen"/>ty of Means as they had.</p>
+            <p n="1">1. The <hi>Pride of their Hearts</hi> turn<g ref="char:EOLhyphen"/>ed them away from the
+<hi>Faith,</hi> they were Supercilious and Haughty, and that <hi>New Doctrine</hi> required Meekneſs and Humility.</p>
+            <p>Upon this our Saviour fixed their <hi>Infidelity,</hi>
+               <note n="†" place="margin">Joh. 5.44.</note> 
+               <hi>How can you believe, which receive honour one of another, and ſeek not the honour that cometh from God onely? Faith</hi> and <hi>Pride</hi> are not ſo Reconcilable, but that we may con<g ref="char:EOLhyphen"/>clude, where there is much of the one, there is but little of the other.</p>
+            <p n="2">2. Their Exorbitant Love of the <hi>World,</hi> made it hard to
+<hi>believe.</hi>
+            </p>
+            <p>Our Saviour told them, It was Im<g ref="char:EOLhyphen"/>poſſible to <hi>ſerve God and Mammon</hi>
+               <note n="‖" place="margin">Luk. 16.13.</note> for <hi>God</hi> required the whole heart, and <hi>Mammon,</hi> the World, was apt to ſteal away too much; therefore, what ſhare they allow'd the <hi>World,</hi> that they deny'd to <hi>God;</hi> and God would look upon himſelf as Deſpis'd by their ſo doing: Yet how little was he Be<g ref="char:EOLhyphen"/>liev'd? for it is ſaid,<note n="†" place="margin">Verſ. 14.</note> 
+               <hi>The Phariſees,
+<pb n="21" facs="tcp:98320:18"/>who were covetous, heard all things, and they Derided him, they Scoffed and Mocked him,</hi> and therefore not likely that they ſhould have <hi>Faith,</hi> who Re<g ref="char:EOLhyphen"/>pudiated, and held in Scorn the Means that Led unto it.</p>
+            <p n="3">3. They were Obſtinate, Perverſe and Self-will'd, and this Evil Temper Obſtructed their <hi>Believing.</hi> They would not come unto
+<hi>Chriſt</hi> that they might be healed.</p>
+            <p n="4">4. They were Envious, and that hindred their <hi>Believing.</hi>
+            </p>
+            <p n="5">5. They were Carnal and Senſual, and that prevented their
+<hi>Believing. The Natural Man receiveth not the things of the Spirit</hi>
+               <note n="‖" place="margin">1 Cor. 2.14.</note>, he neither be<g ref="char:EOLhyphen"/>lieves, nor values them.</p>
+            <p n="6">6. They Neglected the <hi>Scriptures;</hi> and, by means of theſe Obſtructions they did not believe <hi>Jeſus Chriſt</hi> the Son of the Virgin <hi>Mary,</hi> to be True and Eſſentially God; in which Error and Unbelief, ſeeing many, who bear the Name of <hi>Chriſtians,</hi> are, in this Unhappy Age, moſt Hotly Engag'd, occaſion was taken to Aſſert and prove his <hi>Deity.</hi>
+            </p>
+            <pb n="22" facs="tcp:98320:19"/>
+            <p>
+               <hi>Theodoret,</hi> in his <hi>Eccleſiaſtical Hi<g ref="char:EOLhyphen"/>ſtory,</hi> telleth us, That when <hi>Valens</hi> the Emperour had, with his <hi>Arrian</hi> Principles, Poyſon'd and Diſturb'd a great part of the <hi>Chriſtian World; Aphrates</hi> a Monk, (contrary to the Cuſtom of his Order) left the Mo<g ref="char:EOLhyphen"/>naſtery, and put himſelf in the Head of ſuch as roſe to maintain and ſup<g ref="char:EOLhyphen"/>port the Truth; And being demand<g ref="char:EOLhyphen"/>ed why he left his Cell, his Anſwer was, The great danger Threatning the <hi>Church</hi> conſtrained him.</p>
+            <p>I conceive the ſame Anſwer as Sa<g ref="char:EOLhyphen"/>tisfactory, to Juſtifie this Underta<g ref="char:EOLhyphen"/>king, ſeeing there is an Equal Neceſ<g ref="char:EOLhyphen"/>ſity; and ſeeing New Heads are ſprung out of the Old <hi>Hydra</hi> of <hi>He<g ref="char:EOLhyphen"/>reſie,</hi> and that ſome Devils Incarnate are Strangely Zealous, to drive the <hi>Belief</hi> of
+<hi>Jeſus Chriſt</hi> to be the Son of God, out of the World: Woe were unto us, <hi>Miniſters,</hi> if we Preach not the <hi>Goſpel</hi> of <hi>Jeſus Chriſt</hi> the Son of God.</p>
+            <p>The Devil was a Murderer from the beginning, he laboured to Stifle
+<pb n="23" facs="tcp:98320:19"/>
+               <hi>Chriſtianity</hi> at its firſt Birth, by Incli<g ref="char:EOLhyphen"/>ning
+<hi>Herod</hi>'s Mind to a Maſſacre, wherein he made no doubt but the Son of God ſhould have been Com<g ref="char:EOLhyphen"/>prehended; but finding himſelf diſap<g ref="char:EOLhyphen"/>pointed in this firſt Project, he be comes the carefuller in the next, and uſed ſuch Methods for ſtirring up En<g ref="char:EOLhyphen"/>vy, Malice, and Wrath, that he ſoon diſpatcht his Life, who brought Light and Life into the World: However, though he had <hi>Moſt Induſtriouſly</hi> watch<g ref="char:EOLhyphen"/>ed all Opportunities of Stealing away the Heavenly Seed, and had, at laſt, com<g ref="char:EOLhyphen"/>paſſed the Death of the Sower; yet, be<g ref="char:EOLhyphen"/>holding, to his great grief, that ſome of the Seed did ſpring up, and that a New Order of Perſons was Inſtituted to proceed in Sowing the ſame Good Seed; to Fruſtrate their Endeavours, he raiſes ſuch a Tempeſt, as could not be laid but by a Sacrifice of their Blood; but even in this, this Great Deceiver ſaw himſelf Deceiv'd; for, <hi>Sanguis Martyrum fuit ſemen Eccleſiae,</hi> The Blood and Sufferings of theſe Seeds-men, became as Seed Effectual
+<pb n="24" facs="tcp:98320:20"/>to the Spreading of the Faith: Here<g ref="char:EOLhyphen"/>upon, the Adverſary Selects Men of Curious Parts, and Subtil Brains, and theſe he employs in Sowing Tares, (Heterodox Opinions) among the Good Seeds of Piety and Truth; a<g ref="char:EOLhyphen"/>mong ſuch were <hi>Simon Magus,</hi> the <hi>Gnoſticks,</hi> and other
+<hi>Antichriſts:</hi> Theſe were Perſons of Proud, Lawleſs, and Diſhoneſt Principles; and he Choſe them, becauſe Proud, being ſatisfied, that ſuch as were Conceited of their own Parts and Learning, would more willingly Rely on their Own Fancies, and Philoſophical Notions, than on any <hi>Divine Revelation;</hi> wanting the Grace of <hi>Humility,</hi> he foreſaw they ſhould never obtain that of <hi>Faith:</hi> For tho' God giveth this, and all other Graces to the <hi>Humble,</hi> yet he, in all,
+<hi>Reſiſteth the Proud.</hi> He alſo Choſe them, be<g ref="char:EOLhyphen"/>cauſe Head-ſtrong and Lawleſs; for, knowing how Irkſome it was to Men of this Temper, to be Confin'd with<g ref="char:EOLhyphen"/>in the Limits Preſcribed by the Do<g ref="char:EOLhyphen"/>ctrine of
+<hi>Chriſt,</hi> he was well aſſured, ſuch Libertines (ſuch <hi>Wild Aſſes</hi>)
+<pb n="25" facs="tcp:98320:20"/>would quickly kick againſt the Go<g ref="char:EOLhyphen"/>ſpel, becauſe they would not bear the Yoak of it; he had alſo obſerved, that they wanted that Honeſty, Sobriety, and Gravity, that Integrity and Simpli<g ref="char:EOLhyphen"/>city as was neceſſary in true Chriſtians<g ref="char:punc">▪</g> and therefore concluded they would ſoon ridicule a Goſpel of ſober, plain, and honeſt Principles; nor were his expectations deceived; he alſo raiſed another Legion out of the
+<hi>Arrians, Samoſatenians,</hi> and <hi>Photinians,</hi> and with theſe he waged War againſt the Son of God, labouring to impugn the Truth of his Deity.</p>
+            <p>The true <hi>Catholick Faith</hi> ever taught two Natures in Chriſt, Deity, as being the Second Perſon of the Tri<g ref="char:EOLhyphen"/>nity, and Humanity: Which though differing as to Eſſence and Subſtance, yet did conſtitute but one Hypoſtaſis, or ſubſiſtent Perſon, as the Soul and Body make one Man.</p>
+            <p>Some of the <hi>Neſtorians</hi> did ſo far agree with the <hi>Catholick Faith,</hi>
+               <pb n="26" facs="tcp:98320:21"/>that they held two Natures in Chriſt; but they had this Reſervation, that they did believe each Nature made a ſeveral and diſtinct Perſon by it ſelf; nay, ſo ſubtil they were, and ſo re<g ref="char:EOLhyphen"/>ſembling Angels of Light, that they
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſed the ſame words (one Perſon) as other Catholicks did; yet who ſo peruſes the Eccleſiaſtical Records, will find that they no ways meant that the two Natures of Chriſt were united by a perſonal Subſiſtence, but merely by an Unity of Affection, Conſent, Liking, or Co-habitation; that is, to ſpeak in their Sence the Perſon of the Son of God did affect the Son of the Virgin
+<hi>Mary</hi> to that degree, that it did only inhabit or dwell therein as in an Houſe or Temple. According to this Doctrine of the <hi>Neſtorians,</hi> God did not become the Son of Man, nor was the Son of the Virgin <hi>Mary</hi> God, but only the Temple or Houſe of God; whereas the truth is, the ſecond Perſon of the Trinity was Hypoſtatically uni<g ref="char:EOLhyphen"/>ted unto the Man-hood, the Son of God aſſumed humane Nature, and of
+<pb n="27" facs="tcp:98320:21"/>both Natures one Perſon was Conſti<g ref="char:EOLhyphen"/>tuted, called
+<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> God-man, not that the God-head inhabited hu<g ref="char:EOLhyphen"/>mane Nature, nor that the God-head was converted into Fleſh, but by ta<g ref="char:EOLhyphen"/>ing of the Man-hood into God, ſo there is no confuſion of Subſtance, but unity of Perſon, God and Man became one Chriſt. No Hereſie which ever infected the Church of Chriſt, hath been defended with ſuch Sophi<g ref="char:EOLhyphen"/>ſtical Subtilties, ſuch fineneſs of Wit, as this of oppoſing the <hi>Deity of Chriſt;</hi> and even at this Day, ſome Perſons having more Wit than Grace, and in<g ref="char:EOLhyphen"/>dulging that more than became them, are endeavouring to revive this abo<g ref="char:EOLhyphen"/>minable Hereſie, but that theſe Scof<g ref="char:EOLhyphen"/>fers and Mockers as St. <hi>Jude</hi>
+               <note n="†" place="margin">
+                  <hi>v.</hi> 18.</note> terms them, might not proceed inſultingly, I have undertaken to make appear, That Jeſus Chriſt Born of the Virgin <hi>Mary</hi> was God, Bleſſed for Evermore.</p>
+            <p>My Undertaking ſhall be directed by this following Method.</p>
+            <p n="1">1. I will enquire into his particular Names and Titles; from whence the
+<pb n="28" facs="tcp:98320:22"/>Truth of his <hi>Deity</hi> will explain it ſelf;
+<hi>Viz,</hi>
+               <list>
+                  <item>Jeſus,</item>
+                  <item>Chriſt,</item>
+                  <item>Emanuel,</item>
+                  <item>The Word,</item>
+                  <item>The Son of God.</item>
+               </list>
+            </p>
+            <p n="2">2. I ſhall conſider the Properties of the <hi>Deity</hi> are attributed to Him, which are eſpecially conſpicuous in the great Works of
+<hi>Creation</hi> and <hi>Re<g ref="char:EOLhyphen"/>demption.</hi>
+            </p>
+            <p>And that I may the better put to ſilence the moſt impudent Gain-ſayers; as alſo farther confirm your Faith in this great Article, I ſhall appeal to,
+<list>
+                  <item>1. God the Father.</item>
+                  <item>2. God the Holy Ghoſt.</item>
+                  <item>3. The Holy Scriptures.</item>
+               </list>
+            </p>
+            <p>
+               <hi>Firſt,</hi> I ſhall argue and prove the Deity of Jeſus Chriſt the Son of the Virgin <hi>Mary,</hi> from the Names and Titles given him.</p>
+            <p>Here I muſt Obſerve, That the World hath generally agreed in the uſe of Names, <hi>viz.</hi> That <hi>Nomina ſunt Notamina,</hi> Names ſerve as well
+<pb n="29" facs="tcp:98320:22"/>for the diſcovery of the nature of Things and Perſons, as for Diſtinction.</p>
+            <p>Next, leaſt any ſhould cavil with me, and plead that the Virgin
+<hi>Mary</hi>'s, Son was onely called <hi>Jeſus, Emanuel,</hi> and the like, and was not really ſo, I ſhall judge this ſufficient in anſwer hereunto; that to be called in theſe Scriptures I ſhall Name, ſignifies not only to be ſo Named, or to be ſo Re<g ref="char:EOLhyphen"/>puted, but alſo to be that in Deed and in Truth; which one is ſaid to be, or named to be; for proof hereof I referr to<note n="*" place="margin">Matth. 1.16.</note> where it is ſaid,
+<hi>Of whom was born Jeſus who is called Chriſt,</hi> i. e. he was the Chriſt in Deed, and ſhould be de<g ref="char:EOLhyphen"/>clared to the World to be ſo. One place more to juſtifie that this Phraſe called, implies a being really the thing ſo called, is that<note n="†" place="margin">
+                  <hi>Rom.</hi> 9.25,
+26.</note> 
+               <hi>I will call them my People, which were not my People,</hi> i. e. I will make them my People, who were not ſo before.</p>
+            <p>This being Premis'd, I come to the Names or Appellations given to the Son of the Virgin <hi>Mary.</hi>
+            </p>
+            <p n="1">I. Jeſus, <hi>Mat.</hi> 1.21.</p>
+            <p>
+               <pb n="30" facs="tcp:98320:23"/> This was the proper Name of the Son of God when he took humane Fleſh; I confeſs others as <hi>Types</hi> of him had bore this Name, yet never did the Signification of the Name fully a<g ref="char:EOLhyphen"/>gree with the Bearer till now.</p>
+            <p>This name Jeſus ſhows him to be of Heavenly Extract, in that it was given him from Heaven, <hi>Probat An<g ref="char:EOLhyphen"/>gelus caelitùs conceptum, cui nomen cae<g ref="char:EOLhyphen"/>litùs imponitur;</hi> none but God knew the Dignity of this Perſon, and there<g ref="char:EOLhyphen"/>fore he particularly Aſſigns him this Name, as ſufficiently comprehending his Dignity.</p>
+            <p>This Name coming from Heaven, did plainly demonſtrate him to be the Son of God, in that none on Earth had Power over Him to give Him a Name.</p>
+            <p>The Etymological Reaſon which the Angel gave of this Name, illuſtrates the Deity of Him to whom it was gi<g ref="char:EOLhyphen"/>ven,<note n="†" place="margin">
+                  <hi>Mat.</hi> 1.16.</note> 
+               <hi>Thou ſhalt call his name Jeſus, for He ſhall ſave his People from their Sins;</hi> ſo that he really was
+<hi>Sui nominis,</hi> he in all things anſwered his Name;
+<pb n="31" facs="tcp:98320:23"/>Salvation in other Jeſus's was either an empty Name, or at moſt but a faint ſhadow of the Salvation which was found in him.<note n="*" place="margin">
+                  <hi>Acts</hi> 4.12.</note> 
+               <hi>For neither is there Salvation in any other, neither is there any other Name under Heaven given a<g ref="char:EOLhyphen"/>mong Men whereby we muſt be ſaved.</hi>
+            </p>
+            <p>Salvation from Sins is God's Pecu<g ref="char:EOLhyphen"/>liar; for ſo it is ſaid,<note n="†" place="margin">
+                  <hi>Iſa</hi> 45.21.</note> 
+               <hi>There is no God elſe beſide me, a juſt God and a Savi<g ref="char:EOLhyphen"/>our, there is none beſide me;</hi> ſo again,<note n="*" place="margin">
+                  <hi>Hoſea.</hi> 13.4.</note>
+               <hi>For there is no Saviour beſide me.</hi> Thus we ſee God challenging Salvati<g ref="char:EOLhyphen"/>on as his peculiar Prerogative; and hence I Argue, Since by God's ſpecial Command, this Name Jeſus was con<g ref="char:EOLhyphen"/>ferr'd on the Son of the Virgin
+<hi>Mary,</hi> becauſe he ſhould give Salvation from ſins; it is plain that he was God, for he muſt neceſſarily be believed to be the Lord of Life, in whoſe power it was to beſtow Life.</p>
+            <p>
+               <hi>Secondly,</hi> He was called Chriſt, and from hence alſo it will appear that the Son of the Virgin <hi>Mary</hi> was God.</p>
+            <p>Chriſt is a name of Dignity, it is a Greek Word and of the ſame Signi<g ref="char:EOLhyphen"/>fication
+<pb n="32" facs="tcp:98320:24"/>with <hi>Meſſiah</hi> in the <hi>Hebrew.</hi> For him the <hi>Jews</hi> looked, and him they did really believe to be no other than the Son of God, and this may reaſonably be concluded in that they interpreted the ſecond <hi>Pſalm</hi> to be a Prophecy of him; wherein we find it declared<note n="†" place="margin">
+                  <hi>Pſalm.</hi> 2.2.</note> 
+               <hi>That he was the Anointed of God.</hi> And of this <hi>Chriſt,</hi> this
+<hi>Meſſiah,</hi> it is expreſly ſaid by God himſelf,<note n="*" place="margin">
+                  <hi>v.</hi> 7.</note> 
+               <hi>Thou art my Son, this Day have I begotten thee.</hi>
+            </p>
+            <p>That Chriſt and the <hi>Meſſiah</hi> were Synonymous Terms, and that both belonged to the Son of the Virgin <hi>Mary,</hi> is evident from,<note n="*" place="margin">
+                  <hi>Joh.</hi> 1.41.</note> 
+               <hi>We have found the Meſſiah, which is, being interpreted, the Chriſt;</hi> both theſe Names ſignifie Anointed. Kings, Prieſts and Prophets under the Law were Anointed with Holy Oyl. thereby intimating that they were Separated, Sacred, and Conſecrated to God in the diſcharge of their reſpective Offices, and were therefore called <hi>Meſſiae</hi> or <hi>Chriſti,</hi> but this Son of the Virgin <hi>Mary</hi> was Meſſiah or Chriſ <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, emphati<g ref="char:EOLhyphen"/>cally,
+<pb n="33" facs="tcp:98320:24"/>as being both appointed to per<g ref="char:EOLhyphen"/>form all thoſe Offices, and moreover anointed extraordinarily above any or all of them, for<note n="*" place="margin">
+                  <hi>Joh.</hi> 3.24.</note> God gave not unto him the Spirit by meaſure. To give by Meaſure or Weight, implies giving with a cautious or ſparing Hand; and contrarily, to give without meaſure, argues giving plentifully, even the whole; others, albeit they were anoin<g ref="char:EOLhyphen"/>ted, yet were limited; they had the Spirit by meaſure, ſome having one Grace, others another, but this Jeſus the Son of the Virgin <hi>Mary</hi> was a<g ref="char:EOLhyphen"/>nointed with the fullneſs of the Spirit; for ſaith the Apoſtle<note n="†" place="margin">
+                  <hi>Col.</hi> 2.9.</note>, <hi>In him dwel<g ref="char:EOLhyphen"/>led all the fullneſs of the God-head bo<g ref="char:EOLhyphen"/>dily.</hi>
+            </p>
+            <p>Whoſoever allows the Son of the Virgin <hi>Mary</hi> to be <hi>the Meſſiah, the Chriſt,</hi> muſt allow him to be the Son of God; that the
+<hi>Jews</hi> did ever believe the Chriſt, to be the real Son of God, is very perſpicuous<note n="*" place="margin">
+                  <hi>Joh.</hi> 1.49.</note>, where
+<hi>Nathanael</hi> allowing Jeſus to be the Chriſt (i. e. anointed to be King of <hi>Iſrael</hi>) imme<g ref="char:EOLhyphen"/>diately concludes he muſt be the Son
+<pb n="34" facs="tcp:98320:25"/>of God; his Words are, <hi>Rabbi, thou art the Son of God, the King of Iſrael;</hi> and that he as Honeſtly as Rationally ſpoke what he believed, there is not the leaſt cauſe to doubt, ſeeing that this Chriſt who knew what was in Man, and needed not that any ſhould teſtifie,<note place="margin">
+                  <hi>v.</hi> 47.</note> declared of him * <hi>That he was an Iſraelite indeed in whom was no guile.</hi>
+            </p>
+            <p>Hear we alſo <hi>Martha</hi>'s confeſſion of Faith grounded upon the ſame Rea<g ref="char:EOLhyphen"/>ſon<note n="†" place="margin">
+                  <hi>Joh.</hi> 11.27.</note>
+               <hi>I believe that thou art the Chriſt the Son of God.</hi>
+            </p>
+            <p>What ſhall we ſay? the High Prieſt (though enraged) had not forgot this truth, that The Chriſt muſt neceſſari<g ref="char:EOLhyphen"/>ly be the Son of God<note n="*" place="margin">
+                  <hi>Mat.</hi> 26.63.</note>, <hi>I adjure thee by the living God, that thou tell us whether thou be the Chriſt, the Son of God,</hi> for he was ſatisfied if he was the one, he muſt be the other alſo.</p>
+            <p>Now that the Son of the Virgin <hi>Mary</hi> was The Chriſt, is evident, in that he ſo punctually executed the Office of King, Prieſt, and Prophet; to thoſe that would hear and believe, he taught the Will of God; to thoſe who
+<pb n="35" facs="tcp:98320:25"/>would ſubmit to his Sceptre, he be<g ref="char:EOLhyphen"/>came a King ruling in their Hearts by Faith and Love (for he acknowledged his Kingdom was not of this World) and to ſuch he was a Prieſt, not only in offering himſelf a Sacrifice for them, but in Bleſſing them, and turning them from their ſins; ſo that the Son of the Virgin <hi>Mary</hi> thus manifeſting himſelf to be <hi>The Chriſt,</hi> muſt by the Jews own conceſſion be acknowledged to be <hi>the Son of God.</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> The Son of the Virgin <hi>Mary</hi> was called
+<hi>Emanuel,</hi> and this was likewiſe a demonſtration of his Deity.</p>
+            <p>
+               <hi>Emanuel</hi>
+               <note n="*" place="margin">Mat. 1.23.</note>, which being interpreted is God with us; i. e. He that was God from all Eternity, hath now aſſumed. humane Nature, and is become one with us in all things, ſin excepted.</p>
+            <p>This name does plainly imply the Union of the two Natures in the one Perſon of our Redeemer; it doth more<g ref="char:EOLhyphen"/>over point at his mediatory Office be<g ref="char:EOLhyphen"/>tween God arid Man, and demon<g ref="char:EOLhyphen"/>ſtrates him a compleat Saviour able to ſave to the uttermoſt.</p>
+            <p>
+               <pb n="36" facs="tcp:98320:26"/> In him there were two Natures, and yet <hi>nec inferiorem conſumpſit Glorifica<g ref="char:EOLhyphen"/>tio, nec ſuperiorem minuit Aſſumptio,</hi> the Deity did not ſwallow up his Huma<g ref="char:EOLhyphen"/>nity, the Humane Nature was not ſwallowed up and loſt in the Deity, nor did the Deity ſuffer Debaſement or Diminution, by the Aſſumption of the humanity, but both Natures re<g ref="char:EOLhyphen"/>main whole and intire, conſtituting but one Perſon <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or
+<hi>Emanuel,</hi> God<g ref="char:EOLhyphen"/>man, but of this we ſhall underſtand farther in ſpeaking to the next Name.</p>
+            <p>There is a ſecret Harmony between theſe names <hi>Jeſus</hi> and
+<hi>Emanuel,</hi> and <hi>both declare the Deity of the Virgin</hi> Mary<hi>'s Son;</hi> for he that can be a Jeſus to ſave from ſin, muſt neceſſarily be God, and ſo have Life and Salvation in his power to beſtow; nor can God (with reſpect to his own Decree) be a Saviour from ſin, except he become one of us, ſeeing the ſame nature that ſinned, was ſentenced to ſuffer.</p>
+            <p>
+               <hi>Fourthly,</hi> The Son of the Virgin <hi>Mary</hi> was called <hi>The Word,</hi> which name doth alſo vindicate his Deity.</p>
+            <p>
+               <pb n="37" facs="tcp:98320:26"/> It is ſaid<note n="†" place="margin">Ioh.
+1.1.</note>, <hi>In the beginning was the</hi> Word, <hi>and the</hi> Word
+<hi>was with God, and the</hi> Word <hi>was God:</hi> in which words the very
+<hi>Heathen</hi> have ingenuouſly confeſſed there was more of the Divine Nature comprehended, than could be found in all the voluminous Writings of their Philoſophers. The better to gather the full ſence of this Verſe, we muſt firſt enquire who is here meant by <hi>The Word,</hi> for it is evident that is the ſub<g ref="char:EOLhyphen"/>ject of which three things are here pre<g ref="char:EOLhyphen"/>dicated; namely that it was Eternal, a diſtinct Perſon from God the Father, yet of the ſame Nature and Eſſence.</p>
+            <p>I ſhall firſt make it appear that <hi>the Meſ<g ref="char:EOLhyphen"/>ſiah, the Chriſt,</hi> the Son of the Virgin <hi>Ma<g ref="char:EOLhyphen"/>ry,</hi> he whom we acknowledge for our Lord and Saviour, was called <hi>the Word.</hi>
+            </p>
+            <p>He was known to the Jews and o<g ref="char:EOLhyphen"/>thers by this Appellation, <hi>the Lord</hi>
+               <note n="*" place="margin">Pſal. 110.1.</note>, which Title
+<hi>Lord,</hi> and that of the <hi>Word,</hi> were interchangeably uſed by them; for whereas according to our Tranſlation we read<note n="†" place="margin">Gen. 1.23.</note>, <hi>So the Lord created Man,</hi> the
+<hi>Targum</hi> renders it, <hi>The Word</hi> of the Lord created
+<hi>Adam.</hi>
+               <pb n="38" facs="tcp:98320:27"/>Again<note n="*" place="margin">Gen. 3.22.</note> our Bibles have it, <hi>The Lord ſaid,</hi> the <hi>Targum, The Word of the Lord ſaid.</hi> Moreover we find the <hi>Rabbis</hi> and <hi>Jewiſh</hi> Doctors frequently expounded <hi>Jehovah</hi> by <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>the Word</hi> of the Lord; particularly <hi>Jonathan</hi> the Son of <hi>
+                  <g ref="char:V">Ʋ</g>zzi<g ref="char:EOLhyphen"/>el</hi> who was before Chriſt, and Author in part of the <hi>Chaldee</hi> Paraphraſe. Our Bibles Read<note n="†" place="margin">Iſai. 45.17.</note>
+               <hi>Iſrael ſhall be ſaved in the Lord;</hi> but the <hi>Chaldee</hi> Paraphraſe, Iſrael <hi>ſhall be ſaved in the</hi> Word <hi>of the Lord;</hi> ſo that this Apellati<g ref="char:EOLhyphen"/>on was no new thing of St. <hi>John's</hi> invention, but the <hi>Meſſiah,</hi> the Son of God, was known thereby to the <hi>Jews</hi> of old; and which may give our Teſtimony herein the greater Cre<g ref="char:EOLhyphen"/>dit, the ſame name, <hi>The Word,</hi> was known to the Philoſophers; for <hi>Triſ<g ref="char:EOLhyphen"/>megiſtus, Zeno, Plato</hi> and others have ſpoken of <hi>The Word;</hi> nay even in <hi>Ma<g ref="char:EOLhyphen"/>homet</hi>'s Alchoran Chriſt is called <hi>The Word;</hi> ſo the Perſon ſignified by <hi>The Word</hi> we underſtand to be the <hi>Meſſiah, The Chriſt,</hi> the Son of the Virgin
+<hi>Mary.</hi> I ſhall therefore proceed to the things promulged of him in this Verſe, which
+<pb n="39" facs="tcp:98320:27"/>if found true, our Faith ſtands fixed as on a Rock, and we muſt believe that Jeſus Chriſt the Son of the Vir<g ref="char:EOLhyphen"/>gin <hi>Mary,</hi> had a Divine Eſſence prae-exiſting before the World, and that he is a diſtinct Perſon from the Father, but yet that he is very God.</p>
+            <p n="1">1. The <hi>Word</hi> was from everlaſting, <hi>In the beginning was the Word.</hi>
+            </p>
+            <p>
+               <hi>In principio Verbum Erat,</hi> the Verb being here of the Preter imperfect Tenſe, doth imply that <hi>The Word</hi> was ſo in the beginning of Time, as that he alſo was before it; had the Apoſtle put in
+<hi>Eſt</hi> in the Room òf <hi>Erat,</hi> it might have given occaſion to think that <hi>The Word</hi> then received its being, or began to be. There had been the like danger had he uſed <hi>Fuit,</hi> for then ſome would have conjectured, that up<g ref="char:EOLhyphen"/>on the Creation of the World <hi>The Word</hi> was, but that before or after, it was not in being; but the <hi>Word</hi> uſed is <hi>Erat</hi> of the Preter imperfect Tenſe, which ſtanding between the Preſent and the Preter, is not abſolutely either but participates of both times, to de<g ref="char:EOLhyphen"/>monſtrate
+<pb n="40" facs="tcp:98320:28"/>that <hi>The Word</hi> was ſo in the beginning, that he was both before, and after the beginning; he had a ſub<g ref="char:EOLhyphen"/>ſiſtence before all times; for being at that time when all things were begin<g ref="char:EOLhyphen"/>ning to be made, plainly implys he was before the beginning of all things, and ſo muſt be of the ſame Eternity or Ever<g ref="char:EOLhyphen"/>laſtingneſs as the Father; and this is yet more clear as we ſhall ſee immedi<g ref="char:EOLhyphen"/>ately in that Phraſe, <hi>The Word was with God,</hi> he was of the ſame Eternity and Coexiſtency with the Father.</p>
+            <p>Accordingly the <hi>Word</hi> is called by <hi>Nonnus</hi> the Poet,
+<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>quod nullo tem<g ref="char:EOLhyphen"/>pore ſit comprehenſum;</hi> others give him the ſame Title, <hi>Quaſi carens Principio,</hi> and<note n="†" place="margin">Rev. 1.11.</note> Chriſt is called <hi>Alpha</hi> and <hi>Omega</hi> the firſt and the laſt, without any Reſtri<g ref="char:EOLhyphen"/>ction or Limitation; he was ever truly and eſſentially God, and there is not the leaſt ground for <hi>Arrius</hi>'s Blaſphemy, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, time was when he was not.</p>
+            <p n="2">2. <hi>The Word was with God,</hi> this de<g ref="char:EOLhyphen"/>monſtrates him a diſtinct Perſon from God.</p>
+            <pb n="41" facs="tcp:98320:28"/>
+            <p>
+               <hi>Apud Deum,</hi> not as a Property or Quality; not as an Attribute or Faculty, but as a Perſon diſtinctly exiſting, <hi>and that by a different manner of Generation from the Father.</hi>
+            </p>
+            <p>
+               <hi>Apud Deum,</hi> we cannot properly ſpeaking, ſay, any Perſon is with himſelf; he may be ſaid to be with another, but not with himſelf: ſo that from hence we muſt neceſſarily inferr a Diſtinction of Perſons; he that is with, being one; and he with whom he is, being ano<g ref="char:EOLhyphen"/>ther; which makes flatly againſt the <hi>Sabellians,</hi> who deny'd a Diſtinction of Perſons.</p>
+            <p>
+               <hi>Thirdly,</hi> And the <hi>Word was God.</hi>
+            </p>
+            <p>This Demonſtrates the Identity of Nature, and that the <hi>Word</hi> was of the ſame Nature and Eſſence; he cer<g ref="char:EOLhyphen"/>tainly was <hi>Alius,</hi> a diſtinct Perſon from the Father; but not <hi>Aliud,</hi> of another (but the ſame) Nature.</p>
+            <p>This very Name <hi>Word</hi> is moſt apt to repreſent the Two Natures of
+<hi>Chriſt,</hi> the <hi>Divine</hi> and <hi>Humane;</hi> be<g ref="char:EOLhyphen"/>cauſe that in a <hi>Word,</hi> we muſt conſider there is <hi>Sonus,</hi> a
+<hi>Sound,</hi> the Eliſion of
+<pb n="42" facs="tcp:98320:29"/>the Air paſſing from the Mouth of the Speaker, and poſſeſſing the Ear of the Hearer; there is alſo <hi>Verbum,</hi> the
+<hi>Word,</hi> carried by that Sound, and In<g ref="char:EOLhyphen"/>forming the Underſtanding; ſo that the <hi>Sound</hi> and <hi>Word,</hi> though two, are neither to be ſeparated, nor are they confounded.</p>
+            <p>
+               <hi>Fourthly,</hi> The Son of the <hi>Virgin Mary</hi> was called, <hi>The Son of God;</hi> and this Name alſo vindicates his Deity.</p>
+            <p>This Title is given in Scripture upon Various Conſiderations, as ſome<g ref="char:EOLhyphen"/>times times Mankind in General are called, <hi>The Sons of God,</hi> and<note n="†" place="margin">Acts 17.28.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<hi>we are his off-ſpring;</hi> this is ſpoken in reference to the Creation; and upon the ſame account the <hi>Angels</hi>
+               <note n="*" place="margin">Job 38.7.</note> are cal<g ref="char:EOLhyphen"/>led, <hi>The Sons of God.</hi>
+            </p>
+            <p>Again, <hi>Sons of God</hi> are taken in a larger ſence; for ſuch as from the Dig<g ref="char:EOLhyphen"/>nity<note n="†" place="margin">Pſal. 82.6.</note> of their Offices were ſo called.</p>
+            <p>The word is alſo uſed in a Spiritu<g ref="char:EOLhyphen"/>al ſence, they are called,<note n="‖" place="margin">1 Joh. 5.1.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Born of God,</hi> or <hi>Sons of God;</hi> who, by the Spirit of God, are Changed, or Renewed, being Regene<g ref="char:EOLhyphen"/>rate,
+<pb n="43" facs="tcp:98320:29"/>and Born a-new, changed from evil to good.</p>
+            <p>But this <hi>Son</hi> of whom I am ſpeak<g ref="char:EOLhyphen"/>ing, was neither by Creation, Adopti<g ref="char:EOLhyphen"/>on, nor Regeneration; but by Eternal Generation out of himſelf; in which reſpect God hath no <hi>Son</hi> but this; and therefore he is called,
+<hi>The Son of God,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Diſcriminatively,<note n="†" place="margin">Joh. 1.18.</note> 
+               <hi>The onely begotten Son of God:</hi> of which Generation, I preſume not to make a<g ref="char:EOLhyphen"/>ny Declaration: for I ſee not how we can underſtand farther of this Myſte<g ref="char:EOLhyphen"/>ry, than that it is the Communicati<g ref="char:EOLhyphen"/>on of the Divine Eſſence, or Perſona<g ref="char:EOLhyphen"/>lity, or both, by the <hi>Father,</hi> by which he hath Begotten the <hi>Son:</hi> but the Manner how, we ſhall never under<g ref="char:EOLhyphen"/>ſtand while we are in theſe Houſes of Clay.</p>
+            <p>
+               <hi>Chriſt</hi> is called,<note n="‖" place="margin">Luk.
+1.35.</note> 
+               <hi>The Son of God:</hi> by which words is meant, that he took not his beginning when he was Born of the Virgin <hi>Mary,</hi> but that he was the Eternal Son of God, that he was True God as the Father is, and bath the ſame Nature, Eſſence, Will
+<pb n="44" facs="tcp:98320:30"/>and Power with him: and becauſe this Truth was ſo oppoſed by the <hi>Ar<g ref="char:EOLhyphen"/>rians,</hi> a Council of 318 Biſhops Aſ<g ref="char:EOLhyphen"/>ſembled at <hi>Nice,</hi> and Expounded this Article of our Faith in Larger Terms, as you may Read in your <hi>Common-Prayer-Books: I Believe in the Lord Jeſus Chriſt,</hi>
+               <note place="margin">Nicene.</note> 
+               <hi>the onely Begotten Son of God, Begotten of his Father before all Worlds, God of God, Very God of very God, Begotten, not Made,</hi> &amp;c.</p>
+            <p>When St. <hi>Peter</hi> had made his Con<g ref="char:EOLhyphen"/>feſſion of Faith,<note n="†" place="margin">Matt. 16.16.</note> Acknowledging <hi>Chriſt</hi> to be <hi>the Son of the Living God,</hi> it is worthy our Serious Obſervation, that not onely was this Confeſſion made the Standard of Faith, by thoſe words,<note n="*" place="margin">Verſ. 18.</note> 
+               <hi>
+                  <g ref="char:V">Ʋ</g>pon this Rock will I Build my Church;</hi> but our Saviour did alſo declare, that the Knowledge of this Great Truth came to <hi>Peter</hi> from a<g ref="char:EOLhyphen"/>bove,<note n="†" place="margin">Verſ. 17.</note> 
+               <hi>Fleſh and Blood hath not re<g ref="char:EOLhyphen"/>vealed this unto thee, but my Father which is in Heaven:</hi> From whence it is obvious to a very ordinary capaci<g ref="char:EOLhyphen"/>ty, that if the Virgin <hi>Mary</hi>'s Son, had been the Son of God, no other way,
+<pb n="45" facs="tcp:98320:30"/>but by Eminency, in reſpect of the Excellent Gifts that were in him, there had been no occaſion for this Revela<g ref="char:EOLhyphen"/>tion from Heaven; ſeeing that thoſe Gifts and Graces were ſufficient to teſtifie this; this Revelation therefore amply declares his Filiation, or Son<g ref="char:EOLhyphen"/>ſhip, to be of a more Tranſcendent Nature.</p>
+            <p>He was a Son by Real, and Eternal Generation; he was a Son Conſub<g ref="char:EOLhyphen"/>ſtantial with the Father, the thing Begotten being of the ſame Eſſence and Subſtance with that which Begets it; and, for this cauſe, our Saviour Averr'd,<note n="*" place="margin">John 10.30.</note> 
+               <hi>I and the Father are one; <g ref="char:V">Ʋ</g>num,</hi> not <hi>
+                  <g ref="char:V">Ʋ</g>nus;</hi> not one in Will, but in Nature; he is not onely <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, of Like Being, but
+<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, of the ſame Subſtance.</p>
+            <p>Thus hath it appear'd, that the Names Aſcribed to the Son of the Virgin
+<hi>Mary,</hi> as <hi>Jeſus Chriſt, Emanuel, The Word, the Son of God,</hi> do all Aſſert, and Prove his Deity.</p>
+            <p>Our next undertaking was, to ſhow that the Properties of the Deity are
+<pb n="46" facs="tcp:98320:31"/>attributed to him, from whence his Deity will neceſſarily be Inferr'd.</p>
+            <p>There are not properly ſpeaking, any Attributes, Properties or Quali<g ref="char:EOLhyphen"/>fications in God, becauſe whatſoever is in God, is God, but in compliance to the capacity of our ſhallow Un<g ref="char:EOLhyphen"/>derſtandings, they are admitted; and here the Caution takes place, that we ſhould not account theſe Properties parts of the Divine Eſſence, becauſe that every Property is really his very <hi>whole</hi> Eſſence; as for Inſtance, the Wiſdom of God, is no other but the Wiſe God; the Mercy of God, includes the Mer<g ref="char:EOLhyphen"/>ciful God, <hi>&amp;c.</hi> The uſe of theſe Pro<g ref="char:EOLhyphen"/>perties, or Attributes, is to declare and ſet forth unto us the <hi>Eſſence</hi> of God.</p>
+            <p>I have already manifeſted the Eter<g ref="char:EOLhyphen"/>nity of <hi>Jeſus Chriſt,</hi> and ſhall diſtinctly ſpeak next of his Immenſe Power, Wiſdom, Mercy and Goodneſs, diſcer<g ref="char:EOLhyphen"/>nible in thoſe Great Works of Creati<g ref="char:EOLhyphen"/>on and Redemption: I ſhall not ſo confine my ſelf to thoſe, but that in handling I ſhall give you ſuch light into his other Attributes, that you
+<pb n="47" facs="tcp:98320:31"/>may thereby gather a clear Manifeſta<g ref="char:EOLhyphen"/>tion of his Deity.</p>
+            <p n="1">I. The Work of Creation is aſcri<g ref="char:EOLhyphen"/>bed to <hi>Jeſus Chriſt,</hi> the Son of the Vir<g ref="char:EOLhyphen"/>gin <hi>Mary.</hi>
+            </p>
+            <p>To Create, is to make ſomething out of nothing; to doe which, re<g ref="char:EOLhyphen"/>quires an Infinite and Uncontroulable Power, ſuch as can no where be found but in God.</p>
+            <p>St. <hi>John</hi> brings this as a farther Proof of the Deity of
+<hi>Chriſt,</hi> whom he had called the <hi>Word,</hi>
+               <note n="*" place="margin">Joh. 1.3.</note> 
+               <hi>All things were made by him:</hi> as if he had ſaid, The <hi>Word,</hi> or <hi>Jeſus Chriſt</hi> (whom he meant by the <hi>Word</hi>) was certainly God; for, <hi>he, made all things, and without him was not any thing made which was made:</hi> This was ſo mani<g ref="char:EOLhyphen"/>feſt, and withal ſo full a Proof of his Aſſertion, that he reinforces it,<note n="‖" place="margin">Verſ. 10.</note> 
+               <hi>The World was made by him, and the World knew him not:</hi> It is ſad, that the Ge<g ref="char:EOLhyphen"/>nerality of Men did not formerly, nor will not latterly take notice of him in the Capacity of a Creator.</p>
+            <p>That this <hi>Jeſus Chriſt,</hi> when he lay
+<pb n="48" facs="tcp:98320:32"/>in the Boſom of his Father, was a Prin<g ref="char:EOLhyphen"/>cipal Coagent, or Efficient with the <hi>Father,</hi> and the <hi>Holy Ghoſt;</hi> in the Work of Creation. <hi>Solomon</hi> declares it, for<note n="†" place="margin">Prov. 8.22, 23, &amp;c.</note> 
+               <hi>Chriſt</hi> is there called the <hi>Wiſdom of the Father, by whom the World and all things were made:</hi> For all Interpreters not excuſing <hi>Arrius</hi> himſelf, agree, that theſe Words of the <hi>Wiſe Man</hi> were ſpoken concerning
+<hi>Chriſt;</hi> but being intended to oppoſe the Deity of
+<hi>Chriſt,</hi> that Arch-<hi>Heretick,</hi> though he had not the Impudence to deny the words to be ſpoken of <hi>Chriſt,</hi> yet ſuch was his Perverſeneſs, that he Corrupted the <hi>Text,</hi> and for
+<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>He Poſſeſſed me,</hi> Verſe 22d, he Read
+<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>He Crea<g ref="char:EOLhyphen"/>ted me;</hi> and ſo Blaſphemouſly, from his own Corrupted Text, Argued, That <hi>Chriſt</hi> was no more than a Crea<g ref="char:EOLhyphen"/>ture. We have great need to look well to our Bibles, to Read, Mark, Learn, and Inwardly Digeſt the <hi>Sound Doctrine</hi> thereof; becauſe there are too many in the World, beſides thoſe of <hi>Rome,</hi> who, could they get all our <hi>Bibles</hi> into their hands, would ſoon
+<pb n="49" facs="tcp:98320:32"/>Teach them to ſpeak a ſtrange Lan<g ref="char:EOLhyphen"/>guage.</p>
+            <p>The Apoſtle St. <hi>Paul</hi> does as plain<g ref="char:EOLhyphen"/>ly Aſcribe the
+<hi>Creation</hi> to <hi>Jeſus Chriſt,</hi>
+               <note n="*" place="margin">
+                  <hi>Col.</hi> 1.16.</note> 
+               <hi>For by him were all things created, that are in Heaven, and that are in Earth, viſible and inviſible; whether they be Thrones or Dominions, or Prin<g ref="char:EOLhyphen"/>cipalities, or Powers, all things were created by him:</hi> All things, both thoſe that are the Subject of our Sight, as the Corporeal; and thoſe, whoſe Nature and Spiritual Being, as
+<hi>Angels,</hi> and the <hi>Souls of Men,</hi> ſubmits not to Mortal Intuition. That which moſt chiefly makes for our Preſent Purpoſe, is to declare, That this Crea<g ref="char:EOLhyphen"/>tor was <hi>Jeſus Chriſt,</hi> the Son of the Virgin <hi>Mary;</hi> and this is Juſtified, † by calling him,<note place="margin">
+                  <hi>v.</hi> 15.</note> 
+               <hi>That Created the Image of God,</hi> and
+<hi>the Firſt-born of every Creature;</hi> and ‖ he is ſtiled,<note place="margin">
+                  <hi>v.</hi> 18.</note> 
+               <hi>The Head of the Church.</hi>
+            </p>
+            <p>But, for fear any ſhould ſtumble at that Expreſſion. <hi>The Firſt-born of every Creature,</hi> it will be convenient we underſtand this to be a <hi>Figura<g ref="char:EOLhyphen"/>tive
+<pb n="50" facs="tcp:98320:33"/>Speech,</hi> and beareth reference to the Privileges of the
+<hi>Firſt-born,</hi> as being <hi>Lord,</hi> and to exerciſe Dominion over his <hi>Brethren;</hi> ſo that the Phraſe <hi>Firſt-born,</hi> hath been cuſtomarily u<g ref="char:EOLhyphen"/>ſed, to ſignifie Precedency; as<note n="†" place="margin">
+                  <hi>Pſ.</hi> 89.27.</note> 
+               <hi>Da<g ref="char:EOLhyphen"/>vid</hi> is there called,
+<hi>The Firſt-born, higher than the Kings of the Earth;</hi> not that his Kingdom was the Anci<g ref="char:EOLhyphen"/>enteſt, or himſelf the Oldeſt King then Reigning, but as the clauſe of the Verſe explains it, higher than the reſt; ſo that it would be moſt abſurd from this Expreſſion, to Argue
+<hi>Chriſt</hi> to be a Creature, whenas the Apoſtle there<g ref="char:EOLhyphen"/>fore uſes it, to ſhew that he was high<g ref="char:EOLhyphen"/>er than all Creatures, and conſequent<g ref="char:EOLhyphen"/>ly God.</p>
+            <p>To conclude this Point; We being by God's Word Inſtructed, That
+<hi>Chriſt</hi> made all things, We muſt Be<g ref="char:EOLhyphen"/>lieve and acknowledge him to be God; for what ſaith the <hi>Scripture,</hi>
+               <note n="‖" place="margin">
+                  <hi>Heb.</hi> 3.4.</note> 
+               <hi>He that Built all things is God.</hi>
+            </p>
+            <p>That the <hi>Word</hi> in the Firſt of St. <hi>John</hi>'s Goſpel, was underſtood to be <hi>the Creator,</hi> we may conclude from
+<pb n="51" facs="tcp:98320:33"/>
+               <hi>Amelius</hi> a Heathen, who, Reading thoſe Words,
+<hi>In the Beginning was the Word;</hi> Cry'd out, <hi>Iſte Barbarus cum noſtro</hi> Platone <hi>ſentit Verbum Dei in ordine Principii eſſe,</hi> i. e. <hi>John</hi> is of our <hi>Plato</hi>'s Opinion, That the Word of God is in Order of Principles, <hi>i. e.</hi> The Beginning of things.</p>
+            <p n="2">II. The Work of <hi>Redemption</hi> is a<g ref="char:EOLhyphen"/>ſcrib'd to <hi>Jeſus Chriſt</hi> the <hi>Son of the Virgin Mary.</hi>
+            </p>
+            <p>The Word <hi>Redemption</hi> does natu<g ref="char:EOLhyphen"/>rally ſuppoſe Loſs and Miſery; and that brings to Mind, a <hi>Sad</hi> and <hi>Diſ<g ref="char:EOLhyphen"/>mal Story</hi> as old as <hi>Adam.</hi>
+            </p>
+            <p>In the Beginning of Time, the Great and Mighty God Created <hi>Hea<g ref="char:EOLhyphen"/>ven</hi> and <hi>Earth;</hi> who, when he had richly deckt the Firmament with Glorious Lights, and furniſhed the Elements with Variety of Creatures, the Emblems of his Wiſdom and Goodneſs, did then make Man, to whom he intended to commit the Government of the Lower World; That therefore ſo Great Authority might be Beneficial to, and Indiſputa<g ref="char:EOLhyphen"/>ble
+<pb n="52" facs="tcp:98320:34"/>by, the reſt of the Creation, he ſtamps upon him his own Image: Man is Created in Holineſs, his Mind was Ennobled with choice Faculties and Graces; he had a Rational Soul, placed in a Body well built, and eve<g ref="char:EOLhyphen"/>ry way fitted for the Service of God and Himſelf. This Glorious Crea<g ref="char:EOLhyphen"/>ture had a Plantation of God's own Planting allotted him for his Court, (a place richly provided) and free<g ref="char:EOLhyphen"/>dom of enjoying every thing, one Onely Tree Excepted. Abſtinence from this was the Chief Standard of his Obedience, and the Trial of his Love and Duty to the Great Crea<g ref="char:EOLhyphen"/>tor: Thus Gloriouſly Made, and Plentifully Provided for, God left him, together with the Partner of all this Happineſs, to their Own Free-Wills: A Bleſſed State ſure, where<g ref="char:EOLhyphen"/>in, beſides the Holineſs of their Na<g ref="char:EOLhyphen"/>ture, they had the Advantage of In<g ref="char:EOLhyphen"/>telligent and Rational Souls; The Lively Senſe of Divine Favour to Reſtrain every Illegal Motion, and the Hopes of Future Beneficence to
+<pb n="53" facs="tcp:98320:34"/>preſerve them in their Native Inte<g ref="char:EOLhyphen"/>grity: But over and above all theſe, leſt Forgetfulneſs, or Inconſiderate<g ref="char:EOLhyphen"/>neſs, might, on one hand, betray; or any Subtile Temptation on the other, over-power, or ſurprize them, the For<g ref="char:EOLhyphen"/>bidden Tree was committed to the Guard of the King of
+<hi>Terrors,</hi> DEATH,<note n="†" place="margin">Gen. 2.17.</note>
+               <hi>In the day thou eateſt thereof thou ſhalt ſurely die:</hi> Grim, Ghaſtly DEATH! Death, that Implacable Tyrant, who, with his Iron-Mace, doth Break the Veſſels of the Al<g ref="char:EOLhyphen"/>mighty Potter to Duſt: One would have thought, a bare Glimpſe of him would have made a Lump of Clay to Quake; and, if Love could not, yet Fear of him would have kept Them within their Conceded Liber<g ref="char:EOLhyphen"/>ty; but <hi>Death,</hi> as yet, had no <hi>Sting:</hi> The Arch-Fiend,
+<hi>Lucifer,</hi> well-vers'd in all the Black-Arts of Rebellion, re<g ref="char:EOLhyphen"/>ſolves, if poſſible, to draw this Happy Couple to Revolt from their Crea<g ref="char:EOLhyphen"/>tor; and being full of all Subtilty, he Attacks this New Exalted Prince in his Weakeſt and moſt Defenceleſs
+<pb n="54" facs="tcp:98320:35"/>Part, his Wife; 'twas true, he had not Rays enough left of his former Glo<g ref="char:EOLhyphen"/>ry, under which he might ſhroud this Dreadful Guard: yet knew he how to inſtill into <hi>Eve</hi>'s Too Liſtening Ears a Prejudice, hinting, That the Reaſon of God's Strict Prohibition, was no other than his Averſeneſs to Their Happineſs, being extreamly unwilling that their Eyes ſhould be Opened; by means of which Preju<g ref="char:EOLhyphen"/>dice, he Bolts up Her Heart too faſt, for any Thoughts of God's Favour, or Her Duty to Re-enter; he then fills Her Fancy with Great and Glo<g ref="char:EOLhyphen"/>rious Appearances of a God-like Be<g ref="char:EOLhyphen"/>ing, or Knowledge,<note n="*" place="margin">Gen. 3.5.</note> 
+               <hi>In the day ye eat thereof ye ſhall be as Gods, know<g ref="char:EOLhyphen"/>ing Good and Evil:</hi> Theſe Goodly Appearances beget in Her Mind Paſ<g ref="char:EOLhyphen"/>ſionate Deſires, and Eager Wiſhes, ſo Vaſt, that the Suppoſed Joy and De<g ref="char:EOLhyphen"/>light thereof ſoon Inclin'd and Bow'd Her Will; and ſtraight the Faſcinated Eyes look up, and behold the Dead<g ref="char:EOLhyphen"/>ly Fruit with Pleaſure; the Mouth Waters, the Feet Haſten, the Hands
+<pb n="55" facs="tcp:98320:35"/>Pluck, the Lips Receive, the Teeth Grind, and the Throat Swallows the Bitter Morſel; her Tongue, beſides the help it contributed to Chewing, does ſtraight engage the Ears of Her (as yet Innocent) Partner, and with the Powerful Charms of Pleaſure and Wiſdom,<note n="†" place="margin">Gen. 3.6.</note> 
+               <hi>It was Fruit good for Food, pleaſant to the Eyes, and Expedient to make one Wiſe.</hi> She ſoon Overcame, and Captivated his Underſtanding, and ſo drew him into the Conſpira<g ref="char:EOLhyphen"/>cy; hereupon a Deluge of Miſeries Broke in upon them and their Po<g ref="char:EOLhyphen"/>ſterity; for the Law of God was Violated, his Honour Blaſphem'd, his Anger Incens'd, Guilt Contracted, the Favour of Heaven Loſt, and God's Juſtice Provok'd to that de<g ref="char:EOLhyphen"/>gree, that Mankind had inevitably Periſh'd under the Weight thereof, had not the Son of God ſtood in the Gap, and made ſuch <hi>Propoſals</hi> for our Redemption, as were every way Satisfactory, Offering himſelf, in
+<hi>Per<g ref="char:EOLhyphen"/>ſon,</hi> to Satisfie the Wrath that Man had ſo juſtly Incurr'd, by the Humi<g ref="char:EOLhyphen"/>liation
+<pb n="56" facs="tcp:98320:36"/>of Himſelf, to Repair the Ho<g ref="char:EOLhyphen"/>nour Man had Injur'd; by his Obe<g ref="char:EOLhyphen"/>dience to Recover the Favour Man had loſt; by His Blood to <hi>Purge</hi> a<g ref="char:EOLhyphen"/>way the Guilt Man had Contracted; by His Grace to break the Chains of Blindneſs and Perverſeneſs (the Seeds of all Sin) which Man was ſo Faſt Ty'd and Bound with, and by the Merits of His <hi>Life</hi> and
+<hi>Paſſion,</hi> to Re-open the <hi>Kingdom of Heaven,</hi> which Man, by his Tranſgreſſion, had Shut againſt himſelf.</p>
+            <p>Now he that could bear the Wrath of an infinite God, could give Di<g ref="char:EOLhyphen"/>vine Juſtice a compleat ſatisfaction; he that could repair God's wronged Honour, that could reconcile God to Sinners, that could cure Ignorance, and renew Man's depraved Will and Affections, and he that could ſet o<g ref="char:EOLhyphen"/>pen the Kingdom of Heaven, could be no other nor leſs than God; for humane Nature could not ſtand un<g ref="char:EOLhyphen"/>der the Wrath of God, Infinite Ju<g ref="char:EOLhyphen"/>ſtice required Divine Merits; he that could <hi>give unto God the full
+<pb n="57" facs="tcp:98320:36"/>Honour due unto his Name,</hi> muſt per<g ref="char:EOLhyphen"/>form Obedience beyond the Impo<g ref="char:EOLhyphen"/>tency of Lapſed Creatures; he that undertakes to Satisfie for the Sins of others, muſt Himſelf be without Sin, and alſo Offer a Sacrifice truly <hi>Pro<g ref="char:EOLhyphen"/>pitiatory.</hi> He that recovers for others the Loſt Favour of God, muſt be one that never did Diſpleaſe Him: He that can Remove Natural (and to <hi>Humane Power</hi>) Invincible Ignorance muſt be the fountain of Knowledge: he that can reform unruly Wills muſt be the God of Spirits, and he that can open the Kingdom of Heaven which Sin had ſhut, muſt find out a new and a living way to it. But all this, Jeſus Chriſt the Son of the Vir<g ref="char:EOLhyphen"/>gin <hi>Mary,</hi> did, and much more, in order to redeem us; he muſt be there<g ref="char:EOLhyphen"/>fore God.</p>
+            <p>Man cannot Redeem his <hi>Brother</hi>
+               <note n="*" place="margin">Pſal.
+49.7.</note>, nor make an Atonement for him, no though he ſhould live long,
+<hi>viz.</hi> in God's Service, and to his Glory; man cannot find a Ranſom to give to God which he will accept of; the Reaſon
+<pb n="58" facs="tcp:98320:37"/>follows †<note place="margin">
+                  <hi>v.</hi> 8.</note>,
+<hi>For the Redemption of their Soul is Precious,</hi> or as it is in
+<hi>another Tranſlation, It coſt more to redeem it;</hi> God required more than Man could give, ſo that Man muſt let the re<g ref="char:EOLhyphen"/>deeming of his Brother's Soul alone for ever.</p>
+            <p>Man become guilty of the breach of God's Holy Law, and conſequent<g ref="char:EOLhyphen"/>ly ſubject to the Penalty, Eternal Condemnation, it was impoſſible (upon the account of God's Juſtice) he ſhould be reſtor'd, i. e. acquitted, received into God's Grace here, and Glory hereafter, unleſs a Righteouſ<g ref="char:EOLhyphen"/>neſs were found ſufficient to ſatisfie that Law, as well in reſpect of the Obedience required by it, as the Puniſhment juſtly due upon the Vio<g ref="char:EOLhyphen"/>lation of it. The reaſon of this is plain, in that the Law was part of God's Will, and muſt therefore have its Effect, that is to ſay, Man muſt either punctually obſerve it, or ſuffer for the contempt of it; otherwiſe, God muſt depart from his Nature, and leave his Juſtice unſatisfied, which
+<pb n="59" facs="tcp:98320:37"/>were Blaſphemy to ſuppoſe<note n="*" place="margin">Mat. 5.18.</note>, now no Creature (Man being fallen from his Integrity) was in a capacity for either of theſe; and had Man ſought for help to the Angels, he had been de<g ref="char:EOLhyphen"/>ceiv'd, ſeeing that they were charge<g ref="char:EOLhyphen"/>able with Folly<note n="†" place="margin">Job 4.18.</note>; and for the ſuffer<g ref="char:EOLhyphen"/>ing part, if their Love could have engag'd them to the undertaking, (which is not Rational to conjecture) yet having a nearer acceſs to, and a more intuitive Knowledge of God, than<g ref="char:punc">▪</g> Man was capable of; they could not but have clearer Apprehen<g ref="char:EOLhyphen"/>ſions of the fierceneſs of his Wrath, than to expoſe themſelves to the bear<g ref="char:EOLhyphen"/>ing of it; and if (which is too great a Peradventure) their Love could have ſurmounted their Fear, yet their Imbecillity would have ſunk under the Burthen. But we will go farther: ad<g ref="char:EOLhyphen"/>mit they could have ſuſtained it, yet the Dignity of their Perſons be<g ref="char:EOLhyphen"/>ing no way proportionable to the Honour of the offended Deity, this would have occaſion'd their Suffer<g ref="char:EOLhyphen"/>ings to fall ſhort of their neceſſary
+<pb n="60" facs="tcp:98320:38"/>Merit, and ſo the Redemption by them hoped for, muſt have been im<g ref="char:EOLhyphen"/>perfect and of no ſufficient Validity.</p>
+            <p>We are told farther<note n="*" place="margin">Heb. 10.4.</note> 
+               <hi>That it is im<g ref="char:EOLhyphen"/>poſſible the Blood of Bulls and Goats ſhould take away ſins,</hi> ſhould by any Virtue inherent in them Expiate or Atone for ſins; theſe were but Ty<g ref="char:EOLhyphen"/>pical; nor can the blood of one Man, though never ſo Righteous, have ſa<g ref="char:EOLhyphen"/>tisfied for the ſins of others; becauſe there could not be in his performances or ſufferings a ſufficient Merit. He muſt be God therefore as well as Man, that there may be found an in<g ref="char:EOLhyphen"/>finite Value in all things done by him, as a Redeemer.</p>
+            <p>We can never be aſſured that our Reconciliation is perfected, that a compleat Reparation is made to the Honour and Juſtice of God, except we are aſſured that the perſon who undertook this, be of the ſame infi<g ref="char:EOLhyphen"/>nite Dignity as the offended; for weak Cauſes can produce but weak Effects. So that if our Redemption did not proceed from an infinite
+<pb n="61" facs="tcp:98320:38"/>Power, it would be imperfect and uncertain.</p>
+            <p>Therefore are we Taught that our Souls are Redeemed<note n="*" place="margin">1 Pet. 1.19.</note>, <hi>With the pre<g ref="char:EOLhyphen"/>cious Blood of Chriſt, as of a Lamb without Blemiſh and without Spot.</hi>
+            </p>
+            <p>We might collect a farther Juſtifi<g ref="char:EOLhyphen"/>cation of the Deity of Jeſus Chriſt, the Son of the Virgin <hi>Mary</hi> from his Omniſcience.</p>
+            <p>It is proper to God only to know all things. Yet it is apparent, that the Holy Jeſus knew all things Paſt, Preſent, and Future, without the help of Diſcourſe or Reaſoning, they were all preſent to him. <hi>David</hi> aſcribes to God as an Excellency of his Nature, that he knew his Thoughts, the Ideas and Reaſonings that skulked in the moſt ſecret Receſſes of his Mind<note n="†" place="margin">Pſal. 139.2.</note>; <hi>Thou knoweſt my thoughts afar off,</hi> e<g ref="char:EOLhyphen"/>ven before I know them my ſelf, and how often did our Saviour reprove the malicious Thoughts of the Scribes and Phariſees, thereby manif ſting that he made the Heart, ſeeing he was ſo privy to it.</p>
+            <p>
+               <pb n="62" facs="tcp:98320:39"/> It was an impertinent Queſtion which the <hi>Jews</hi> put forth<note n="*" place="margin">Joh. 7.15.</note>, <hi>They marvelled, ſaying, How knoweth this Man letters, having never Learned?</hi> i. e. How does he thus underſtand the Law and the Prophets, whenas we know he never was brought up in the School of the Prophets? This I ſay, was very ridiculous in them, when they were daily ſenſible as is Recorded<note n="†" place="margin">Luk. 6.8.</note>, <hi>That he knew their Thoughts;</hi> he could tax them with their evil Conceptions not yet brought forth in Words<note n="*" place="margin">Mat. 9.4.</note>, <hi>Wherefore think ye evil in your Hearts?</hi> He that did un<g ref="char:EOLhyphen"/>derſtand what was conſpir'd in the ſecret Cabinet of their Hearts, could be no ſtranger to what was open and legible in the Books of their Law.</p>
+            <p>For our full ſatisfaction of the Son of the Virgin <hi>Mary</hi>'s Omniſcience, let us hearken to the <hi>Samaritan</hi> Wo<g ref="char:EOLhyphen"/>man<note n="†" place="margin">Joh. 4.29.</note>: <hi>Come, ſee a Man that told me all things that ever I did: Is not this the Chriſt?</hi> He hath diſcovered thoſe things, that it is not to be imagined how he ſhould know them; I had
+<pb n="63" facs="tcp:98320:39"/>thought my Heart had been deeper than the Well, but yet he whom I concluded uncapable to come at Wa<g ref="char:EOLhyphen"/>ter, becauſe he wanted a Bucket to draw with, hath fetched up from the bottom of my Heart things that have been long kept Secret, things that have been hid from others by Fear and Care, and from my Self, by the forgetfullneſs of many Years. What can he be leſs than God, to whoſe Eyes all things are ſo open and naked? <hi>Heb.</hi> 4.13. If any judge the foreci<g ref="char:EOLhyphen"/>ted inſtance not ſatisfactory to the point before us, let them conſult<note n="*" place="margin">Jo. 21.17.</note> 
+               <hi>Lord thou knoweſt all things,</hi> &amp;c. This Jeſus not only heard what Men were ſpeaking, but ſaw alſo what they were thinking.</p>
+            <p>If we reflect upon his Nativity, ſuch was the Myſtery of his Incarna<g ref="char:EOLhyphen"/>tion, a Virgin to become a Mother; ſuch the Majeſty and Attendance as gave ample Teſtimony of his Deity; St. <hi>John</hi> dances in the Womb, a new Star ariſes in the <hi>Eaſt,</hi> three great Kings (led as may be ſuppoſed by
+<pb n="64" facs="tcp:98320:40"/>
+               <hi>Balaam</hi>'s Prophecy<note n="*" place="margin">Num.
+24.17.</note>) undertake a tedious Journey to pay their Homage to the King of Glory become incar<g ref="char:EOLhyphen"/>nate, a Choire of Angels uſher'd in this King of
+<hi>Iſrael</hi> with their Heaven<g ref="char:EOLhyphen"/>ly Anthem.</p>
+            <p>What ſhall we ſay? The very O<g ref="char:EOLhyphen"/>racles (that is Images) wherein the Devils acted, and impos'd upon Men, did atteſt at this Nativity; that Na<g ref="char:EOLhyphen"/>ture had brought forth a King, and having thus Declar'd, they ſubmitted to his Sceptre; for whereas formerly they received Worſhip and Adorati<g ref="char:EOLhyphen"/>on, they now proſtrate themſelves e<g ref="char:EOLhyphen"/>ven to a breaking in pieces.</p>
+            <p>We read likewiſe that <hi>Auguſtus Cae<g ref="char:EOLhyphen"/>ſar</hi> having firſt preſented his Sacrifice, enquired of the Oracle who ſhould ſucceed him in the Empire; as if this had been too difficult, or rather be<g ref="char:EOLhyphen"/>cauſe the Reſolution muſt produce his own ſhame; the Devil refuſed all an<g ref="char:EOLhyphen"/>ſwer till after a ſecond Sacrifice, and then did Declare.</p>
+            <pb n="65" facs="tcp:98320:40"/>
+            <lg>
+               <l>
+                  <hi>Me puer Haebreus, Divos Deus ipſe gubernans</hi>
+               </l>
+               <l>
+                  <hi>Cedere ſede jubet, Triſtemque re<g ref="char:EOLhyphen"/>dire ſub orcum,</hi>
+               </l>
+               <l>
+                  <hi>Aris ergo dehinc Tacitis abſcedito noſtris.</hi>
+               </l>
+            </lg>
+            <p>The New-born <hi>Hebrew Infant,</hi> who is God, far tranſcending all other Gods, hath Commanded me to with<g ref="char:EOLhyphen"/>draw, and to retire to my deſolate Manſions of Darkneſs. Seeing there<g ref="char:EOLhyphen"/>fore I muſt obey, give your ſelf no farther trouble to frequent my Al<g ref="char:EOLhyphen"/>tars, for you will always hencefor<g ref="char:EOLhyphen"/>wards find here a profound ſilence.</p>
+            <p>Hereupon, <hi>Auguſtus</hi> Erected an Altar, bearing this Inſcription,</p>
+            <p>
+               <hi>Ara Primogeniti Dei;</hi>
+            </p>
+            <p>The <hi>Altar</hi> of the Firſt Begotten <hi>Son of God.</hi>
+            </p>
+            <p>
+               <pb n="66" facs="tcp:98320:41"/> Farther, St. <hi>Paul</hi> ſpeaking of <hi>Jeſus Chriſt</hi>
+               <note n="†" place="margin">Rom. 1.4.</note>, averrs, That he was decla<g ref="char:EOLhyphen"/>red to be <hi>the Son of God with Power;</hi> the Powerful, or Mighty Works which he did, throughout the Courſe of his Life, were Demonſtrations, that he was the Son of God, becauſe no other could do ſuch things.</p>
+            <p>The Caſe may thus be ſtated, No Ordinary or Natural Means could poſſibly induce that Faith among Men, That <hi>Jeſus Chriſt, the Son of the Virgin</hi> Mary, <hi>was the Son of God;</hi> but ſeeing this Faith was neceſſary, in order to the obtaining Eternal Life, therefore was he pleaſed to doe many things beyond the reach of Natural Power.</p>
+            <p>His own Diſcourſe imports as much,<note n="*" place="margin">Joh.
+11.4.</note> where he Interprets the occaſion of Working a Miracle, to be an happy opportunity of Manifeſting Himſelf to be the Son of God; for, ſaith he, <hi>This Sickneſs is not unto Death, but for the Glory of God, that the Son of God may be glorified thereby.</hi> All his Mi<g ref="char:EOLhyphen"/>racles did publiſh the ſame Truth;
+<pb n="67" facs="tcp:98320:41"/>I ſhall Inſtance at preſent but in Two.</p>
+            <p>The <hi>Winds raging,</hi> and the <hi>Sea roaring,</hi> and both being deaf to Hu<g ref="char:EOLhyphen"/>mane Commands, or Entreaties, did readily ſubmit to His Authority,<note n="*" place="margin">Matth. 14.33.</note> up<g ref="char:EOLhyphen"/>on his <hi>Speaking of a Word they were huſht into a Calm:</hi> What could the Spectators hereupon conclude, other <hi>than of a Truth, thou art the Son of God?</hi> Humane Fleſh cannot poſſibly ſo conceal thy Deity, but that theſe Admirable Effects of thy Power will more diſcover it.</p>
+            <p>Nay, the Devils themſelves paid ſuch Ready Obedience, as did declare the ſufficiency of his Authority; they diſputed not the Caſe, nor would they try their Power and Strength, but fore-ſeeing they were to be diſ<g ref="char:EOLhyphen"/>poſſeſſed,<note n="‖" place="margin">Mark 5.7.</note> 
+               <hi>I Adjure thee</hi> (ſaith one, in behalf of the reſt) <hi>that thou Tor<g ref="char:EOLhyphen"/>ment me not:</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, not to ſend him to his Priſon, to his place of Pu<g ref="char:EOLhyphen"/>niſhment and Reſtraint, where he was to be kept Cloſe and Tormented. What could be a plainer Proof of his
+<pb n="68" facs="tcp:98320:42"/>Deity, than the Acknowledgment of thoſe Infernal Spirits, how that they were wholly at his Diſpoſal? It is evident, that having formerly felt the Effects of his Irreſiſtable Power, when they were turned out of Heaven, they dreaded, by the leaſt Act of Diſobe<g ref="char:EOLhyphen"/>dience, to Provoke him, leaſt he drave them to their Torment before the Time.</p>
+            <p>With Inſtances of like nature the <hi>Holy Writ</hi> is ſo plentifully ſtor'd, that the <hi>Reader</hi> will not take it diſcourte<g ref="char:EOLhyphen"/>ouſly to be referr'd thither, eſpecially when he will there find, the <hi>Jews</hi> Ac<g ref="char:EOLhyphen"/>knowledging, the <hi>Gentiles</hi> Admiring, the <hi>Apoſtles</hi> Proclaiming, the <hi>Evan<g ref="char:EOLhyphen"/>geliſts</hi> Recording, and <hi>Multitudes</hi> of<g ref="char:EOLhyphen"/>fering to Seal with their Blood the Truth of the <hi>Doctrine</hi> and
+<hi>Miracles,</hi> which were Ample Demonſtrations of the Deity of
+<hi>Jeſus Chriſt</hi> the Son of the Virgin <hi>Mary.</hi>
+            </p>
+            <p>Laſtly, For farther Proof of the ſame Aſſertion, we Appeal unto ano<g ref="char:EOLhyphen"/>ther <hi>Trinity of Witneſſes,</hi> viz. <hi>God the
+<pb n="69" facs="tcp:98320:42"/>Father, God the Holy Ghoſt,</hi> and the <hi>Sacred Scriptures.</hi>
+            </p>
+            <p n="1">I. We Appeal to <hi>God the Father.</hi>
+            </p>
+            <p>If Two or Three Creditable Per<g ref="char:EOLhyphen"/>ſons Affirm a Thing, the Wiſdom of Men has Subſcribed to ſuch an Affir<g ref="char:EOLhyphen"/>mation, as a Rational and Warranta<g ref="char:EOLhyphen"/>ble Ground for Belief: Hence the A<g ref="char:EOLhyphen"/>poſtle Argues,<note n="†" place="margin">1 John 5.9.</note> 
+               <hi>If we Receive the Witneſs of Men, the Witneſs of God is greater,</hi> i. e. ought to be received with greater Deference and Venera<g ref="char:EOLhyphen"/>tion:<note n="*" place="margin">Ver. 11.</note> 
+               <hi>We have the Teſtimony, this is the Record, that God hath given to us Eternal Life, and this Life is in his Son.</hi> The direct way to Acquire this Life, is Rightly to Believe in him, as <hi>the Son of God</hi>
+               <note n="‖" place="margin">Ver. 10.</note>; The Reaſon is given, why we ought not to
+<hi>Fear, Doubt,</hi> or <hi>Waver</hi> in this Fundamental <hi>Arti<g ref="char:EOLhyphen"/>cle;</hi> becauſe we cannot doubt, in this Caſe, but with manifeſt Injury offer<g ref="char:EOLhyphen"/>ed to the Truth of God; for, we muſt make him a Liar, becauſe God hath given this Teſtimony of his Son: And the ſame <hi>Apoſtle</hi> ſays,
+<pb n="70" facs="tcp:98320:43"/>
+               <note n="*" place="margin">1 John 2.22.</note> 
+               <hi>They are Liars that deny Jeſus to be the Chriſt;</hi> and not onely <hi>Liars,</hi> but <hi>Antichriſts,</hi> for they deny both the <hi>Father and the Son;</hi> they deny the <hi>Son</hi> directly, and the <hi>Father</hi> by con<g ref="char:EOLhyphen"/>ſequence, becauſe he hath Teſtified of the <hi>Son:</hi> So that a Man cannot de<g ref="char:EOLhyphen"/>part from, or deny this <hi>Article of Faith, That Jeſus Chriſt, the Son of the Virgin</hi> Mary, <hi>is the Son of God,</hi> without becoming a <hi>Liar</hi> and an <hi>An<g ref="char:EOLhyphen"/>tichriſt.</hi>
+            </p>
+            <p>At the Baptizing the Son of the Virgin <hi>Mary</hi> in the River
+<hi>Jordan,</hi> God the <hi>Father</hi> did openly declare this Truth,<note n="‖" place="margin">Matth. 3.17.</note> 
+               <hi>Loe a Voice from Heaven, ſaying, This is my beloved Son, in whom I am well pleaſed:</hi> The Time at which, the Place from which this Voice came, and the Subſtance of the Voice, are all manifeſt Declarati<g ref="char:EOLhyphen"/>ons, that he that was then Baptized, was no other than the <hi>Son of God.</hi>
+            </p>
+            <p>Again, when our Saviour conde<g ref="char:EOLhyphen"/>ſcended to give to his Diſciples a more Convincing Teſtimony of his Deity, he bleſſed their Eyes with a Glimpſe
+<pb n="71" facs="tcp:98320:43"/>of his Glory<note n="†" place="margin">Mat.
+17.2.</note>, and for their farther Confirmation, that they were under no Deluſion, nor were encouraged to greater hopes than what ſhould in time be accompliſhed, beſide the ex<g ref="char:EOLhyphen"/>traordinary Majeſty of his Face, the Heavenly Fulgure and Luſtre of his Raiment, the Tendance and Miniſtry of
+<hi>Moſes</hi> and <hi>Elias,</hi> they have from God's Mouth,<note n="*" place="margin">Verſ. 5.</note> 
+               <hi>This is my beloved Son. in whom I am well pleaſed.</hi>
+            </p>
+            <p>The Apoſtle Illuſtrates this whole matter<note n="†" place="margin">2 Pet. 1.17.</note>, <hi>For he received from God the Father, Honour and Glory, when there came ſuch a Voice from the Excellent Glory, This is my beloved Son, in whom I am well pleaſed:</hi> If we conſult the Verſes preceding, we ſhall find the Reaſon why the Apoſtle urged this ſo ſtrongly, <hi>viz.</hi> leaſt af<g ref="char:EOLhyphen"/>ter his departure (which he looked for every day) the Deity of <hi>Chriſt,</hi> and the Redemption wrought by him might be forgotten or disbelieved, as the <hi>Gnoſticks</hi> were buſie it ſhould; he therefore, by way of Prevention, delivers this Teſtimony of God the
+<pb n="72" facs="tcp:98320:44"/>Father, in the behalf of <hi>Jeſus Chriſt</hi> his Son our Lord; and aſſures them, that he was an Eye-witneſs of the Majeſty of <hi>Chriſt</hi> at his <hi>Transfigurati<g ref="char:EOLhyphen"/>on</hi>
+               <note n="‖" place="margin">Verſ. 16.</note>, and alſo an Ear-witneſs of the <hi>Voice from Heaven,</hi>
+               <note n="*" place="margin">Verſ. 18.</note> 
+               <hi>We heard it when we were with him in the Holy Mount.</hi>
+            </p>
+            <p>Moreover, that the Tragedy of his approaching Death might not ſtartle their Faith in this <hi>Article,</hi> a little be<g ref="char:EOLhyphen"/>fore his Paſſion, while our Lord was Diſcourſing of it,<note n="†" place="margin">John
+12.28.</note> 
+               <hi>There came a Voice from Heaven,</hi> Atteſting, He was heard in what he deſired; for, the <hi>Voice</hi> ſaid, <hi>I have both glorified my Name, and will glorifie it again;</hi> (this was the Subject of our Saviour's Prayer) I have glorified the Name of my Truth and Mercy to Mankind, in ſending my Son into the World, according to my Purpoſe and Pro<g ref="char:EOLhyphen"/>miſe, and I will alſo now Glorifie the Name of my Wiſdom, Mercy and Ju<g ref="char:EOLhyphen"/>ſtice, in exacting and taking of that my Son, the Puniſhment due unto the Sins of Believers. Our Saviour's
+<pb n="73" facs="tcp:98320:44"/>Words juſtifie this expoſition<note n="*" place="margin">
+                  <hi>v.</hi> 30.</note>, for he told the Diſciples and the reſt of the Spectators, <hi>This Voice came not becauſe of me, but for your ſakes;</hi> I needed neither ſatisfying nor remind<g ref="char:EOLhyphen"/>ing me who I am, or what I am to do, my Father's gracious intent in this Voice was your good, it was merely for your ſakes, in compaſſion to your hard heartedneſs that you might believe; you were not willing to believe me telling you that the Father and I were one, but now you cannot refuſe believing, ſeeing he ſpeaketh the ſame thing from Heaven.</p>
+            <p>God the Father did alſo teſtifie this Truth at the Aſcenſion of his Son<note n="*" place="margin">Heb. 1.6.</note>, <hi>And again, when he bringeth in the firſt begotten into the World, he ſaith, let all the Angels of God worſhip him.</hi> If you look to the end of the<note n="†" place="margin">
+                  <hi>v.</hi> 3.</note>, you may know the particular date of this Command; <hi>When he had by himſelf purged our ſins, he ſat down on the right hand of the Majeſty on High,</hi> and then the Father ſaid, <hi>Let all the Angels of God worſhip him.</hi>
+            </p>
+            <p>
+               <pb n="74" facs="tcp:98320:45"/> The ſame is alſo declared by St. <hi>Paul</hi>
+               <note n="*" place="margin">Phil. 2.9, 10.</note>, How that God the Father had highly exalted his Son Jeſus Chriſt, <hi>and had given him a Name above every Name, that at the Name of Jeſus, e<g ref="char:EOLhyphen"/>very Knee ſhould bow, of things in Hea<g ref="char:EOLhyphen"/>ven, and things in the Earth, and things under the Earth.</hi>
+            </p>
+            <p n="2">II. We paſs on to the Teſtimony of the Holy Ghoſt.</p>
+            <p>The Spirit of God which is called the Spirit of Truth, becauſe it is im<g ref="char:EOLhyphen"/>poſſible he ſhould bear falſe Witneſs, teſtified the Deity of Jeſus Chriſt the Son of the Virgin <hi>Mary</hi> at his Con<g ref="char:EOLhyphen"/>ception<note n="†" place="margin">Luke 1.35.</note>; <hi>The Holy Ghoſt ſhall come upon thee, and the power of the Higheſt ſhall over-ſhadow thee; therefore alſo that holy thing that ſhall be Born of thee, ſhall be called the Son of God:</hi> The ſtreſs of which Words lies upon the Illative
+<hi>therefore,</hi> and the Sence may be thus taken; That the Son of God was deſigned to be Born of a Woman, becauſe the Holy Ghoſt ſhall over-ſhadow her; the Bleſſed Spirit was concerned to prepare that Nature
+<pb n="75" facs="tcp:98320:45"/>after an extraordinary manner, which the God-head was determined to aſ<g ref="char:EOLhyphen"/>ſume; and ſeeing the Holy God was pleaſed to dwell in Fleſh, the Holy Ghoſt muſt prepare and form that Fleſh.</p>
+            <p>Again: At his Baptiſm, the Holy Ghoſt teſtified the Deity of Jeſus Chriſt the Son of the Virgin <hi>Mary,</hi> for he Deſcended upon him<note n="*" place="margin">Mat. 3.16.</note> 
+               <hi>as a Dove,</hi> not in the ſhape or form of a Dove, ſaith the learned Dr. <hi>Hammond</hi> on the place; but he lighted upon him as Doves uſe to light, who hover over, and over-ſhadow the place firſt, which they intend to light upon.</p>
+            <p>At this Baptiſm of our Saviour, there was <hi>Concilium Auguſtiſſimum,</hi> a moſt Majeſtical meeting of the Tri<g ref="char:EOLhyphen"/>nity; God the Father ſpake from Hea<g ref="char:EOLhyphen"/>ven, challenging and owning him whom <hi>John</hi> Baptized for his Son, God the Holy Ghoſt deſcended in a bodily appearance, God the Son was there clad in humane Nature, and being in the form of a Servant, he ſubmitted himſelf to the fulfilling of all Righte<g ref="char:EOLhyphen"/>ouſneſs.</p>
+            <p>
+               <pb n="76" facs="tcp:98320:46"/> Again the Holy Ghoſt particularly declared this Truth to
+<hi>Simeon</hi>
+               <note n="†" place="margin">Luke 2.26, 27.</note>, <hi>It was revealed to him by the Holy Ghoſt, that he ſhould not ſee Death, before he had ſeen the Lords Chriſt,</hi> and that this Son of the Virgin
+<hi>Mary</hi> was he, <hi>Si<g ref="char:EOLhyphen"/>meon</hi> was informed by the ſame Holy Spirit, as may be collected from his Action and Profeſſion *;<note place="margin">v.
+28, 29, 30.</note> 
+               <hi>For he then in the Temple took this Son of the Virgin</hi> Mary <hi>up in his Arms and Bleſ<g ref="char:EOLhyphen"/>ſed God, ſaying, Lord, now letteſt thou thy Servant depart in Peace according to thy word,</hi> (i. e. promiſe by the Ho<g ref="char:EOLhyphen"/>ly Ghoſt) <hi>for mine Eyes have ſeen thy Salvation;</hi> the Perſon in whom Sal<g ref="char:EOLhyphen"/>vation is appointed.</p>
+            <p>This very Deſcent of the Holy Ghoſt upon our Saviour at his Bap<g ref="char:EOLhyphen"/>tiſm, is called by St. <hi>Paul</hi>
+               <note n="*" place="margin">1 Cor. 2.4.</note>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>The Demonſtration of the Spirit,</hi> a Teſtimony given by God from Heaven, intimating and con<g ref="char:EOLhyphen"/>firming the Verity of Chriſt's God-head, a Demonſtration, for the Holy Ghoſt then Demonſtrated to
+<hi>John</hi> and others, that he who was then Bapti<g ref="char:EOLhyphen"/>zed was the Son of God.</p>
+            <p>
+               <pb n="77" facs="tcp:98320:46"/> I might have argued the Teſtimo<g ref="char:EOLhyphen"/>ny of the Holy Ghoſt from the Pro<g ref="char:EOLhyphen"/>phecies of the Old Teſtament; for as ſaith the Apoſtle<note n="†" place="margin">2 Pet. 1.21.</note>, <hi>The Prophecies came not by the Will of Man,</hi> (Men undertook not this office of their own Heads, nor did they deliver their own fancies and perſwaſions for Prophe<g ref="char:EOLhyphen"/>cies) <hi>But Holy Men of God ſpake as they were moved by the Holy Ghoſt,</hi> as they were inſpired and inſtructed by the Holy Spirit of God; therefore they that deny the Deity of Jeſus Chriſt, would do well to take heed unto the ſure word of Prophecy, gi<g ref="char:EOLhyphen"/>ven by the Spirit of God, and there they will find moſt ample Declarati<g ref="char:EOLhyphen"/>ons, that he who ſhould be Born of the Virgin <hi>Mary,</hi> was God as well as Man.</p>
+            <p>The gift of the Holy Ghoſt was the effect of Chriſt's promiſe, the Time and Place of his coming was expreſly aſſign'd by Chriſt<note n="*" place="margin">Luke 24.49.</note>, <hi>Tarry ye at Jeruſalem till ye be endued with power from on High. John Baptized his Diſciples with Water</hi> but,<note n="†" place="margin">Acts 1.4, 5.</note>, Chriſt
+<pb n="78" facs="tcp:98320:47"/>promiſed to Baptize his Diſciples with the Holy Ghoſt, and commanded them not to depart from <hi>Jeruſalem,</hi> but there to wait for the completion of the promiſe; and accordingly in the place, and at the time, we find the Holy Ghoſt was plentifully poured forth upon them †.<note n="*" place="margin">Acts 2.1, 2, 3.</note> 
+               <hi>When the day of Pentecoſt was fully come, the Apoſtles were all with one accord in one place,</hi> viz. in an upper Room of the Tem<g ref="char:EOLhyphen"/>ple, where they conſtantly perform<g ref="char:EOLhyphen"/>ed their Devotions, and they were all filled with the Holy Ghoſt.</p>
+            <p>Farther, the Holy Ghoſt did Teſti<g ref="char:EOLhyphen"/>fie the Deity of Jeſus Chriſt, becauſe of the ends and purpoſes of his com<g ref="char:EOLhyphen"/>ing; which our Saviour expreſſes to be two.</p>
+            <p n="1">1. He was to glorifie Chriſt<note n="†" place="margin">Joh.
+16.14.</note>, <hi>He ſhall glorifie me, for he ſhall receive of mine, and ſhew it unto you;</hi> whether he inſtructs, whether he comforts you, in all he ſhall accord with me, and thereby it will be manifeſt that I came from God.</p>
+            <p n="2">
+               <pb n="79" facs="tcp:98320:47"/> 2. He was to reprove the World<note n="*" place="margin">Joh. 16.8.</note>: <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as the learned Dr.
+<hi>Hammond</hi> obſerves, is to act the part of an Ad<g ref="char:EOLhyphen"/>vocate, to convince the Accuſer, and maintain a Cauſe againſt all Gain-ſay<g ref="char:EOLhyphen"/>ers;
+<hi>inexcuſabiles penitus demonſtrabit, arguet evidentibus Argumentis, &amp; pro<g ref="char:EOLhyphen"/>bationibus docebit, ita ut tergiverſari non poſſit.</hi> The Holy Ghoſt was to plead and juſtifie the cauſe of Chriſt in three particular Acts.</p>
+            <p n="1">I. He was to convince the World of their <hi>Sin</hi> of
+<hi>
+                  <g ref="char:V">Ʋ</g>nbelief</hi>
+               <note n="†" place="margin">
+                  <hi>v.</hi> 9.</note>. His deſcent was an Argument of Chriſt's Deity; what could they farther object againſt his being God, when now their Eyes beheld the Effuſion of the Holy Ghoſt? The various Operations of this Spirit of Grace, were ſo many proofs of the Deity of Chriſt.</p>
+            <p n="2">II. He was to plead the cauſe of Chriſt and to convince the World, as to the point of his Righteouſneſs<note n="*" place="margin">
+                  <hi>v.</hi>
+10.</note>, <hi>He ſhall reprove the World of Righte<g ref="char:EOLhyphen"/>ouſneſs, becauſe, I go to my Father.</hi> The Spirit of Grace deſcending from a<g ref="char:EOLhyphen"/>bove ſhall teſtifie my Aſcenſion, whereby
+<pb n="80" facs="tcp:98320:48"/>by it will be manifeſt that I am God, and that there was no Unrighteouſ<g ref="char:EOLhyphen"/>neſs in me, as they Blaſphemouſly reported.</p>
+            <p n="3">III. He was to plead the Cauſe of Chriſt and to reprove the World of Judgment<note n="*" place="margin">
+                  <hi>v.</hi> 11.</note>, <hi>Becauſe the Prince of this World is judged;</hi> not only that the Spirit of Grace ſent by me ſhall ma<g ref="char:EOLhyphen"/>nifeſt that he that Reigned in the hearts of the Children of Diſobedi<g ref="char:EOLhyphen"/>ence, and excited them to Betray, Condemn, and Crucifie me, was the Spirit of Errour, and the Enemy of their Salvation; but alſo this Spirit aſſiſting my Diſciples to work Won<g ref="char:EOLhyphen"/>ders and Signs in my Name, as cu<g ref="char:EOLhyphen"/>ring Diſeaſes, and caſting out De<g ref="char:EOLhyphen"/>vils, ſhall thereby judge, over-power, and conquer the Prince of this World.</p>
+            <p n="3">III. The Scriptures alſo Teſtifie that Jeſus Chriſt the Son of the Virgin <hi>Mary</hi> was God.</p>
+            <p>We are commanded to ſearch the Scriptures, to look into them careful<g ref="char:EOLhyphen"/>ly, with an earneſt deſire and endea<g ref="char:EOLhyphen"/>vour to find out the meaning thereof.
+<pb n="81" facs="tcp:98320:48"/>Whereupon St. <hi>Chryſoſtom</hi>'s Exhorta<g ref="char:EOLhyphen"/>tion was,
+<hi>Audite ſaeculares, comparate vobis Biblia;</hi> but Bibles now are of little more eſtimation than old Alma<g ref="char:EOLhyphen"/>nacks; if a matter of doubt ariſes, we do ſometimes, but very rarely con<g ref="char:EOLhyphen"/>ſult them; our Hands delight not in handling the Word of Life, whereas they are too buſie with Romances, and Play-books, with Folly and Ribaldry; and I fear this is not altogether the ef<g ref="char:EOLhyphen"/>fect of Sloath, Vanity or Lazineſs in the Laity, but occaſioned by an odd Faſhion crept up of late among ſuch, whoſe lips ſhould preſerve Knowledge, the only care and ſtudy now, being that publick Diſcourſes be well larded (if not to Nauſeouſneſs) with flowers of Rhetorick; Terms of Philoſophy, Tropes and Figures to Tickle itching Ears are plenty, but Quotations of Scripture ſo thin and ſparing, that ſometimes in an hour's Diſcourſe, not one place of Scripture is to be found beſides the Text; this makes ſome conclude it a trouble to carry their Bibles with them, ſeeing the ſpirit of
+<pb n="82" facs="tcp:98320:49"/> 
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="83" facs="tcp:98320:49"/> 
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="80" facs="tcp:98320:50"/> 
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="81" facs="tcp:98320:50"/> 
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="82" facs="tcp:98320:51"/>the Prophets will not come to this Touch-ſtone, and by degrees they ar<g ref="char:EOLhyphen"/>rive to the Opinion that they are as uſeleſs at Home as at Church. I ſhall here preſume to declare a true obſer<g ref="char:EOLhyphen"/>vation, that when Scripture was uſed as a Principal part of the Sermon, the Inſtruction ſank deeper into Mens hearts, and Piety and Holineſs was much more viſible in Mens Converſa<g ref="char:EOLhyphen"/>tions. I might add, many Pernicious and Blaſphemous Principles had yet lain in Darkneſs, or at leaſt had not been vented in Publick, had not care been firſt taken to leave off the Light.</p>
+            <p>We are charged to ſearch the Scriptures<note n="*" place="margin">Joh.
+1.49.</note>, becauſe, they teſtifie of Chriſt We cannot turn over the Bible, but the Majeſty of Chriſt will appear; he is as well the matter as the Au<g ref="char:EOLhyphen"/>thor; and if you will hearken to their Teſtimony, you ſhall hear them de<g ref="char:EOLhyphen"/>clare, that Jeſus Chriſt the Son of the Virgin <hi>Mary</hi> is
+<hi>God.</hi>
+            </p>
+            <p>
+               <hi>Take heed therefore unto your ſelves,</hi>
+               <note n="†" place="margin">Acts 20.28.</note> 
+               <hi>and to all the Flock over which the Holy Ghoſt hath made you Over<g ref="char:EOLhyphen"/>ſeers,
+<pb n="83" facs="tcp:98320:51"/>to feed the Church of God, which he hath purchaſed with his Blood;</hi> to any conſidering perſon two things here offer themſelves.</p>
+            <p n="1">1. He that purchaſed the Church was God, the Church of God which He hath purchaſed, i. e. God.</p>
+            <p n="2">2. That this God was Jeſus Chriſt, becauſe it is ſaid, he purchaſed the Church with his Blood, neither the Father nor the Holy Ghoſt having a<g ref="char:EOLhyphen"/>ny Blood, but Jeſus Chriſt as he aſ<g ref="char:EOLhyphen"/>ſumed Humane Nature; ſo that Jeſus Chriſt the Son of the Virgin <hi>Mary,</hi> was the God that purchaſed the Church with his Blood; read likewiſe 1 <hi>Pet.</hi> 1.18,
+19. <hi>Rom.</hi> 9.5. Chriſt is called,<hi>God bleſſed for ever. Amen.</hi>
+            </p>
+            <p>Great is the myſtery of Godlineſs:<note n="*" place="margin">1 Tim.
+3.16.</note> 
+               <hi>God was manifeſt in the Fleſh, juſtifi<g ref="char:EOLhyphen"/>ed in the Spirit, ſeen of Angels, preach<g ref="char:EOLhyphen"/>ed nto the Gentiles, believed on in the World, received up into Glory.</hi> Now it is manifeſt, this Scripture ſets forth him to be God, of whom all theſe things were verified; and it is alſo manifeſtly ſet down in the Scriptures,
+<pb n="84" facs="tcp:98320:52"/>that all theſe were true of Jeſus Chriſt; he was found in the form of a Ser<g ref="char:EOLhyphen"/>vant, he took our Nature upon him, he was juſtified by the Spirit of God to be the <hi>Meſſias,</hi> he was preached unto the <hi>Gentiles</hi> as the true and only Saviour, by Faith in whoſe Name they might receive Salvation; he was believed on in the World; while he was in the World, his Diſciples and ſome others believed him to be the Son of God; he was received up into Glory, he openly in the ſight of many Witneſſes aſcended up into Hea<g ref="char:EOLhyphen"/>ven; wherefore he that was thus ma<g ref="char:EOLhyphen"/>nifeſt in the Fleſh, juſtified by the Spirit, preached unto the
+<hi>Gentiles,</hi> believed on in the World, and receiv<g ref="char:EOLhyphen"/>ed up into Glory was God, and this is the great Myſtery of Godlineſs or of the Chriſtian Religion.</p>
+            <p>The Scriptures Teſtifie that Jeſus Chriſt the Son of the Virgin
+<hi>Mary</hi> was God, in that both the Prophecies Recorded in the Old, and the per<g ref="char:EOLhyphen"/>formances in the New exactly accord and centre in Chriſt.</p>
+            <p>
+               <pb n="85" facs="tcp:98320:52"/> 
+               <hi>Adam,</hi> that had the firſt Promiſe was told, it ſhould be in the Humane Na<g ref="char:EOLhyphen"/>ture that the Son of God ſhould ap<g ref="char:EOLhyphen"/>pear to redeem the World,<note n="*" place="margin">Gen. 3.15.</note> 
+               <hi>The ſeed of the Woman ſhall break the Serpents Head.</hi>
+            </p>
+            <p>
+               <hi>Abraham</hi> was inform'd that he ſhould be of his Poſterity,<note n="†" place="margin">Gen. 12.3.</note> 
+               <hi>In thee ſhall all the Families of the Earth be Bleſſed.</hi>
+            </p>
+            <p>
+               <hi>Jacob</hi> had a Revelation of his Tribe,<note n="*" place="margin">Gen.
+49.8.</note> 
+               <hi>Judah, thou art he whom thy Brethren ſhall praiſe.</hi>
+            </p>
+            <p>
+               <hi>David</hi> was told that he ſhould be particularly of his Family,<note n="†" place="margin">2 Sam. 7.12.</note> 
+               <hi>And when thy days ſhall be fulfilled, I will ſet up thy Seed after thee, which ſhall proceed out of thy Bowels, and I will e<g ref="char:EOLhyphen"/>ſtabliſh his Kingdom.</hi>
+            </p>
+            <p>
+               <hi>Iſaiah</hi> received a Meſſage from God, that this Son of God ſhould be born of a Virgin,<note n="*" place="margin">Iſa. 7.14.</note> 
+               <hi>A Virgin ſhall con<g ref="char:EOLhyphen"/>ceive.</hi>
+            </p>
+            <p>
+               <hi>Micah</hi> had notice of the place of his Nativity,<note n="†" place="margin">Micah 5.2.</note> * <hi>But thou Bethlehem Ephratah, though thou be litle among the thouſands of Judah, yet out of thee ſhall
+<pb n="86" facs="tcp:98320:53"/>he come forth unto me, that is to be Ru<g ref="char:EOLhyphen"/>ler in Iſrael:</hi> All theſe Prophecies were exactly accompliſhed in the per<g ref="char:EOLhyphen"/>ſon of Jeſus Chriſt the Son of the Virgin <hi>Mary.</hi>
+            </p>
+            <p>Was it ſaid the Seed of the Wo<g ref="char:EOLhyphen"/>man? This was punctually perform'd in the ſtricteſt Sence,<note n="*" place="margin">Mat. 1.18.</note> 
+               <hi>The Birth of Jeſus Chriſt was on this wiſe, when as his Mother Mary was eſpouſed to Joſeph (before they came together) ſhe was found with Child of the Holy Ghoſt.</hi> Was he to be of <hi>Abraham</hi>'s Poſterity? it is accordingly Recorded<note n="†" place="margin">Mat. 1.1.</note>, <hi>The Book of the Generation of Jeſus Chriſt the Son of David, the Son of Abraham.</hi> To this purpoſe the Apoſtle Argues<note n="*" place="margin">Gal. 3.29.</note>,
+<hi>They that are Chriſts,</hi> viz. true Believers, <hi>are Abraham</hi>'s
+<hi>ſeed;</hi> being one in Chriſt they muſt be ſo accounted, in that he was ſo. Was he to be of the Tribe of <hi>Judah?</hi> So ſaith the Scripture he was<note n="†" place="margin">Heb. 7.14.</note>, <hi>It is evident our Lord ſprang out of Judah.</hi> Was he to be of the Fa<g ref="char:EOLhyphen"/>mily of
+<hi>David?</hi> This was ſo manifeſtly true of the Son of the Virgin
+<hi>Mary,</hi> that even the Blind ſaw it. Hear
+<pb n="87" facs="tcp:98320:53"/>them<note n="*" place="margin">Mat. 9.27.</note>, <hi>Thou Son of David, have Mer<g ref="char:EOLhyphen"/>cy on us.</hi> Was he to be born of a Virgin? You heard it proved<note n="†" place="margin">Mat. 1.18.</note>. Was he to be born in <hi>Bethlehem?</hi> So teſti<g ref="char:EOLhyphen"/>fie the Scriptures he was<note n="*" place="margin">Mat. 2.1.</note>, <hi>Jeſus was born in Bethlehem of Judaea, in the days of Herod the King.</hi>
+            </p>
+            <p>Again: The Scriptures Teſtifie, that Jeſus Chriſt the Son of the Vir<g ref="char:EOLhyphen"/>gin <hi>Mary</hi> was God, becauſe to that very end, they had their being<note n="†" place="margin">Joh. 20.31.</note>; <hi>Theſe things are Written</hi> (not only what I have wrote, but what <hi>Mat<g ref="char:EOLhyphen"/>thew, Mark</hi> and
+<hi>Luke</hi> have Wrote al<g ref="char:EOLhyphen"/>ſo) <hi>that you might believe Jeſus is the Son of God, and that believing you might have life through his Name;</hi> they muſt therefore neceſſarily teſti<g ref="char:EOLhyphen"/>fie ſufficiently of him, what they were intended to induce us to believe of him; <hi>viz.</hi> that he is God.</p>
+            <p>There want not plenty of other Arguments to evince the Deity of <hi>Jeſus Chriſt;</hi> As, that we are Com<g ref="char:EOLhyphen"/>manded to be Baptized in his Name, and Baptiſm ought not to be Ad<g ref="char:EOLhyphen"/>miniſtred in the Name of any Crea<g ref="char:EOLhyphen"/>ture:
+<pb n="88" facs="tcp:98320:54"/>We are alſo Commanded to Believe in his Name, and it were bootleſs to Believe in any Name but the Name of God: We are called
+<hi>Chriſtians</hi> from him, and it cannot be thought that the Church of God hath ſo far degenerated, as to lay down the Name of God, and ſubmit to be called by the Name of a Crea<g ref="char:EOLhyphen"/>ture: We might have Argued, that Divine Honour, Praiſe and Glory, are Aſcribed to him: We have that Knowledge, that God hath declared himſelf Jealous of his Honour, and he hath ſaid expreſly,<note n="†" place="margin">Iſai. 42.8.</note> He <hi>would not give his Honour to another.</hi> Nay, we have known his Jealouſie burn like Fire againſt ſuch as have preſumed upon his Glory; for this cauſe the <hi>Angels</hi> were thruſt out of <hi>Heaven</hi>
+               <note n="*" place="margin">Iſai. 14.12, 13, 14, 15.</note>; <hi>Herod, Alexander, Caligula,</hi> and <hi>Domi<g ref="char:EOLhyphen"/>tian,</hi> have paid dearly for their Uſur<g ref="char:EOLhyphen"/>pation in this Kind.</p>
+            <p>Aſcribing Glory and Honour, was by the <hi>Jews</hi> allowed an Acknowledg<g ref="char:EOLhyphen"/>ment of the Deity. When-ever the Prieſt in she Sanctuary made Menti<g ref="char:EOLhyphen"/>on
+<pb n="89" facs="tcp:98320:54"/>of the Name of God, the People uſed ſome Forms of Bleſſing, or Prai<g ref="char:EOLhyphen"/>ſing God. This may be gathered from<note n="‖" place="margin">Deut. 32.3.</note>, where <hi>Moſes</hi> ſaid, <hi>Becauſe I will publiſh the Name of the Lord, Aſ<g ref="char:EOLhyphen"/>cribe ye Greatneſs unto our God:</hi> In this cafe we ſhall find the like Glory Aſcribed to the Son of the Virgin <hi>Mary,</hi>
+               <note n="†" place="margin">Matt. 21.9.</note>
+               <hi>Hoſanna to the Son of David.</hi> The <hi>Jews</hi> were ordered to obſerve the <hi>Feaſt of Tabernacles,</hi> which, as <hi>Expo<g ref="char:EOLhyphen"/>ſitors</hi> agree, not onely<g ref="char:punc">▪</g> remembred them of their Dwelling in Tents, but did alſo Prefigure God's pitching his Tabernacle in our Fleſh: At this Feaſt, when-ever any. Name, or Ti<g ref="char:EOLhyphen"/>tle of God was recited by the Prieſt, the People Repeated <hi>Hoſanna,</hi> which ſignified, <hi>Save us we beſeech thee.</hi> St. <hi>Jerom</hi> was of opinion, That much about the time of
+<hi>Christ</hi>'s <hi>In<g ref="char:EOLhyphen"/>carnation,</hi> the <hi>Jews</hi> were wont often to Read the <hi>Hundred and Eighteenth Pſalm,</hi> which they Interpreted of
+<hi>Chriſt;</hi> in the Twenty fifth Verſe whereof, this word
+<hi>Hoſanna</hi> is found; this was frequently Sung in their
+<hi>Sy<g ref="char:EOLhyphen"/>nagogues;</hi>
+               <pb n="90" facs="tcp:98320:55"/>and the <hi>Jews</hi> being at this time big with Expectation of the <hi>Meſſiah,</hi> met him Riding to
+<hi>Jeruſalem,</hi> and Saluted him with <hi>Hoſanna,</hi> the very word they uſed to Salute the Majeſty of God on their <hi>Feaſt of Ta<g ref="char:EOLhyphen"/>bernacles,</hi> a <hi>Type</hi> of <hi>Chriſt</hi>'s
+<hi>Incarna<g ref="char:EOLhyphen"/>tion;</hi> ſo that by this Salutation, at this Time, they cannot be thought to have meant any other, than an owning, That GOD was come a<g ref="char:EOLhyphen"/>mong them. To Juſtifie this Opini<g ref="char:EOLhyphen"/>on, I have Two <hi>Reaſons;</hi>
+               <list>
+                  <item>1. Becauſe in the latter part of the Verſe, <hi>viz.</hi>
+                     <note n="*" place="margin">Matt. 21.9.</note> it is ſaid, <hi>Hoſanna in the Higheſt.</hi>
+                  </item>
+                  <item>2. Becauſe we Read,<note n="†" place="margin">Luk. 19.40.</note>
+                     <hi>That if they ſhould have held their peace,</hi> and have forborn to Aſcribe this Honour and Glory to <hi>Chriſt, the Stones out of the Wall would have done it:</hi> So that if Men had been obſtinate, and would not have Acknowledged him as God their Redeemer, the Stones would have Glorified him as God their Crea<g ref="char:EOLhyphen"/>tor.</item>
+               </list>
+            </p>
+            <p>
+               <pb n="91" facs="tcp:98320:55"/> The <hi>Chriſtian Church</hi> hath continu<g ref="char:EOLhyphen"/>ed even to our days Two Repreſenta<g ref="char:EOLhyphen"/>tions of the Deity of <hi>Chriſt,</hi> which the Prince of Darkneſs hath laboured to get decry'd, as too Superſtitious and Ceremonious, onely that they grow<g ref="char:EOLhyphen"/>ing out of Requeſt, he might gradu<g ref="char:EOLhyphen"/>ally obliterate the Senſe and Belief of the Deity of the Holy <hi>Jeſus;</hi> the one of theſe is <hi>Bowing</hi> at the <hi>Name of Je<g ref="char:EOLhyphen"/>ſus,</hi> and the other is the <hi>Eulogy</hi> given unto him, when-ever his <hi>Goſpel</hi> is Read in the <hi>Church,</hi> ſaying, when the <hi>Goſpel</hi> is named,
+<hi>GLORY BE TO THEE, O LORD;</hi> and when it is ended, <hi>THANKS BE GI<g ref="char:EOLhyphen"/>VEN TO THEE O LORD FOR THIS GOSPEL:</hi> I re<g ref="char:EOLhyphen"/>ferr it to modeſt men to Judge, whe<g ref="char:EOLhyphen"/>ther laying aſide the uſe of theſe, be not a Departing from one kind of Evidence of the Deity of <hi>Chriſt.</hi>
+            </p>
+            <p>I might have added, that in the end, as alſo in other places of the
+<hi>E<g ref="char:EOLhyphen"/>piſtles,</hi> Writ to the Church of God, by the <hi>Apoſtles, Chriſt</hi> is Prayed to as God; for God the Father is Sup<g ref="char:EOLhyphen"/>plicated
+<pb n="92" facs="tcp:98320:56"/>for Love, <hi>Jeſus Chriſt</hi> for Grace, and the
+<hi>Holy Ghoſt</hi> for the Communication of his Gifts.<note n="†" place="margin">2 Cor. 13.13.</note> 
+               <hi>The Grace of our Lord Jeſus Chriſt, and the Love of God, and the Communion of the Holy Ghoſt be with you all, Amen.</hi>
+            </p>
+            <p>
+               <note n="*" place="margin">Gal. 1.3.</note>
+               <hi>Grace be to you, and peace from God the Father, and from our Lord Jeſus Chriſt.</hi>
+            </p>
+            <p>But next to Plainneſs, my great Care hath been Brevity, as much as ſo weighty a Point will admit of.</p>
+            <p>Having thus Vindicated the Deity of <hi>Jeſus Chriſt,</hi> and from the Names given him, from the Properties of the Deity Attributed to him, that is to ſay, from his Infinite Power, Wiſdom, &amp;<hi>c.</hi> viſible in the Great Works of Crea<g ref="char:EOLhyphen"/>tion and Redemption, as alſo from the Teſtimony of God the <hi>Father,</hi> God the <hi>Holy Ghoſt,</hi> and from the <hi>holy Scriptures,</hi> proved, that <hi>Jeſus Chriſt,</hi> the Son of the Virgin
+<hi>Mary,</hi> was, and is, True and Perfect God:</p>
+            <p>Now permit me to ſpeak unto you in the words of St. <hi>Peter,</hi>
+               <note n="‖" place="margin">2 Pet. 1.16.</note> 
+               <hi>I have
+<pb n="93" facs="tcp:98320:56"/>not followed cunningly deviſed Fables,</hi> nor have I offered you any other Ar<g ref="char:EOLhyphen"/>guments or Proofs than what are Proper, and tend naturally to evince this <hi>Article of our Faith;</hi> I have, in the whole management of them, follow<g ref="char:EOLhyphen"/>ed the plaineſt method, hoping, that in ſo doing, I have ſpoke to your Un<g ref="char:EOLhyphen"/>derſtanding; if I have ſhewn any zeal, or warmth, it is upon the ac<g ref="char:EOLhyphen"/>count that I take it for granted, could the Wit of
+<hi>Men,</hi> or Malice of <hi>Devils</hi> overthrow this Foundation, it could not be long before the Gates of Hell would <hi>prevail againſt the Church of Chriſt;</hi> And now, bleſſed be the God and Fa<g ref="char:EOLhyphen"/>ther of our Lord
+<hi>Jeſus Christ,</hi> who, by making known to us, that <hi>Jeſus Chriſt,</hi> the Son of the Virgin <hi>Mary</hi> was alſo the Eternal Son of God, hath Taught us,</p>
+            <p>
+               <hi>First,</hi> That we <hi>Christians</hi> of the <hi>Gentiles,</hi> as it is Written,<note n="‖" place="margin">Epheſ. 2.19.20.</note> 
+               <hi>Are no more Strangers or Foreigners, but Fellow-Citizens with the Saints, and of the Houſhold of God, and are built upon the Foundation of the Apostles and Prophets, Jeſus Christ himſelf being
+<pb n="94" facs="tcp:98320:57"/>the Chief Corner-stone; ſo that he that ever was, ſtill is the Head of the Church,</hi> viz. <hi>Jeſus Chriſt, God bleſſed for evermore.</hi>
+            </p>
+            <p>I find our Saviour declaring.<note n="‖" place="margin">Matth.
+16.18.</note> 
+               <hi>Thou art Peter, and upon this Rock will I build my Church: Thou art Peter,</hi> I ſo Surnamed thee<note n="†" place="margin">Mark
+3.16.</note>, and as thy Name imports, ſo thou art, <hi>viz.</hi> a Living Stone in my Spiritual Temple; <hi>upon this Rock,</hi> this Confeſſion of me to be <hi>the Son of the Living God</hi>
+               <note n="*" place="margin">Matt.
+16.16.</note>, <hi>I will build my Church:</hi> The word Rock I take here to be mentioned <hi>Allegori<g ref="char:EOLhyphen"/>cally, onely alluding to that Memora<g ref="char:EOLhyphen"/>ble Rock in the Wilderneſs;</hi> and thus taken, it ſignifies, that as that <hi>Rock</hi> then Refreſhed the <hi>Iſraelites</hi> in the Parch<g ref="char:EOLhyphen"/>ed and Barren Wilderneſs; ſo now, the Knowledge and Confeſſion of my Deity ſhall be as Refreſhing, Com<g ref="char:EOLhyphen"/>fortable, and Satisfactory to all Be<g ref="char:EOLhyphen"/>lievers, to allay the heat and burning of their Guilt, to quench the fire of Divine Wrath and Vengeance, as were the Streams that iſſued out of that <hi>Rock,</hi> to cool your Forefathers
+<pb n="95" facs="tcp:98320:57"/>Thirſt, and to ſatisfie their Appe<g ref="char:EOLhyphen"/>tites. It were certainly a great mi<g ref="char:EOLhyphen"/>ſtake, with the Church of <hi>Rome,</hi> to take ſuch notice of the Affinity of words, as to Interpret <hi>Peter</hi> and the
+<hi>Rock</hi> to be the ſame thing, as if <hi>Christ</hi> had here Promiſed to Build his <hi>Church</hi> upon <hi>Peter,</hi> or were weary of his
+<hi>Spouſe,</hi> and did now intend to give her a Bill of Divorce, and leave her to another; this muſt be the conſe<g ref="char:EOLhyphen"/>quence of that Interpretation which our Adverſaries ſo highly favour; and before we can conſent to it, we muſt Contend with Two ſuch Difficulties as I judge Unconquerable.</p>
+            <p n="1">I. If we ſay that <hi>Chriſt</hi> Promiſed to build his
+<hi>Church</hi> upon <hi>Peter,</hi> How ſhall we anſwer that of the
+<hi>Apoſtle</hi>
+               <note n="†" place="margin">1 Cor. 3.11.</note>,
+<hi>Other Foundation can no Man lay, than that which is laid, which is Jeſus Christ;</hi> yet not him, but <hi>Peter,</hi> ſay the <hi>Ro<g ref="char:EOLhyphen"/>maniſts;</hi> but let theſe wiſe Maſter-Builders know, that the Stone they refuſe is Realy and Rightfully the Head-ſtone in the Corner, and ſo dan<g ref="char:EOLhyphen"/>gerous is it here to ſtumble, that he
+<pb n="96" facs="tcp:98320:58"/>that falleth on this Stone, that ma<g ref="char:EOLhyphen"/>keth this a Rock of Offence, that doubteth and will not admit Chriſt to be the Head of the Church ſhall be broken, ſhall be wounded in his Soul, but on whomſoever it ſhall fall, <hi>viz.</hi> ſuch as through Pride or Contuma<g ref="char:EOLhyphen"/>cy ſhall ſtrive to ſhake, or pull this Stone out of its place, it ſhall grind them to Powder, divine Vengeance ſhall daſh them into a thouſand pieces.</p>
+            <p>How will they who expound theſe Words <hi>(<g ref="char:V">Ʋ</g>pon this Rock)</hi> of
+<hi>Peter</hi> and not of Chriſt, or that Confeſſion made of him by
+<hi>Peter,</hi> get over the clauſe of that Verſe, where it is ſaid,
+<hi>The Gates of Hell ſhall not prevail a<g ref="char:EOLhyphen"/>gainſt it,</hi> viz. the Church built on this Rock,<hi>i. e.</hi> neither the Power, nor Policy of Hell, ſhould prevail againſt it; yet it is viſible that againſt
+<hi>Peter</hi> the Gates of Hell greatly prevailed: Then how muſt the Church totter and ſhake, when, according to them, this famous Rock on which it was built did ſo tremble and reel.</p>
+            <p>
+               <pb n="97" facs="tcp:98320:58"/> But, to put an end to this Contro<g ref="char:EOLhyphen"/>verſie; we have a ſure Rule, to which all <hi>Chriſtians</hi> do well to have regard<note n="†" place="margin">Eph. 1.22.</note>; <hi>God, the Father of Glory hath given his Son Jeſus Chriſt to be Head over all things to the Church:</hi> Which words do abundantly condemn the Impu<g ref="char:EOLhyphen"/>dence of ſuch as preſume upon a Power to order things in the <hi>Church,</hi> contrary to the Revealed Will of the Head thereof.</p>
+            <p>On the other hand, ſeeing the Son of God is Head of the <hi>Church,</hi> how Blame<g ref="char:EOLhyphen"/>worthy, nay, how Audacious and In<g ref="char:EOLhyphen"/>excuſable are they, who ſpurn againſt, and deny any of his Ordinances? I mean ſuch, whoſe Froward Zeal hath Exploded the <hi>Lord's Prayer</hi> as a Form Obſolete, and have laid aſide the Sa<g ref="char:EOLhyphen"/>craments as uſeleſs, which the Head of the Church Inſtituted as General<g ref="char:EOLhyphen"/>ly Neceſſary for Salvation: Seeing <hi>Jeſus Chriſt</hi> is Head of the <hi>Church,</hi> it is a Riddle to me whence Men derive their Power of Altering, Adding to, or Diminiſhing from what he hath Ordained.</p>
+            <p>
+               <pb n="98" facs="tcp:98320:59"/> Having now ſo Sure, and Sufficient a Foundation, our Main Care muſt be what we Build upon it: We are told,<note n="†" place="margin">1 Cor. 3.12.</note> if we Build <hi>Wood, Hay,</hi> or <hi>Stubble;</hi> that is, <hi>Wooden,</hi> and <hi>Hetero<g ref="char:EOLhyphen"/>dox Opinions,</hi> the Traſh of <hi>Philoſo<g ref="char:EOLhyphen"/>phical Notions,</hi> or, the
+<hi>Dry Stubble</hi> of <hi>Humane Inventions</hi> and <hi>Fanſies,</hi> theſe will not abide the Trial; but if we Build thereon <hi>Gold, Silver,</hi> or <hi>Preci<g ref="char:EOLhyphen"/>ous Stones; Solid, Clear,</hi> and <hi>Orna<g ref="char:EOLhyphen"/>mental Truths,</hi> ſuch as may Direct, Juſtifie, and Adorn our Converſati<g ref="char:EOLhyphen"/>ons, theſe will Abide; therefore I ſhall accordingly Rear this Truth up<g ref="char:EOLhyphen"/>on this Foundation.</p>
+            <p n="2">II. Is <hi>Jeſus Chriſt</hi> the Son of God? And is this Son Head of the <hi>Church?</hi> then, (as ſaith the Apoſtle<note n="‖" place="margin">Phil. 2.11.</note>) <hi>Let every Tongue Confeſs that Jeſus Chriſt is Lord, to the Glory of God the Fa<g ref="char:EOLhyphen"/>ther.</hi>
+            </p>
+            <p>Let all the <hi>Nations</hi> and <hi>Kindreds</hi> of the Earth Acknowledge his Doctrine to be the <hi>Onely Word of Life,</hi> and that he that Brought it, was Rightly <hi>Jeſus</hi> a <hi>Saviour:</hi> Let every Soul <hi>Bend
+<pb n="99" facs="tcp:98320:59"/>the Knee,</hi> and Submit to his <hi>Commands,</hi> as being the <hi>Commands</hi> of the <hi>Lord of Lords;</hi> Let this Acknowledgment and Confeſſion be made, this Obedi<g ref="char:EOLhyphen"/>ence and Homage tendred
+<hi>to the Glory of God the Father;</hi> for, by his Order and Decree, this Eternal Son of God, became, <hi>in Fullneſs of time, the Son of Man:</hi> Now therefore, tho there be ſome who would Pervert, and Change the <hi>Goſpel of Chriſt,</hi> yet if <hi>an Angel from Heaven ſhould Preach any other Goſpel unto you,</hi> than that <hi>Jeſus Chriſt,</hi> the <hi>Eternal Son of God, is the Head of the Church;</hi> Let ſuch Perſon be
+<hi>Accurſed:</hi> Look upon him as one <hi>Excommunicate,</hi> and with whom conſequently none ought to have any Commerce in <hi>Sacred Matters.</hi>
+            </p>
+            <p>The <hi>Heathens</hi> had a Saying, <hi>Mu<g ref="char:EOLhyphen"/>tus ſit oportet, qui non laudârit</hi> Her<g ref="char:EOLhyphen"/>culem; He deſerves not to Speak, who cannot find ſomething to ſay in the Praiſe of <hi>Hercules:</hi> Shall not
+<hi>Chriſtians</hi> be thought worthy to loſe their Tongues, if they
+<hi>cleave to the Roof of their Mouths,</hi> and refuſe to
+<pb n="100" facs="tcp:98320:60"/>ſound forth the <hi>Noble Praiſe</hi> of the Bleſſed <hi>Son of God,</hi> our <hi>Great Saviour</hi> and
+<hi>Redeemer?</hi> How ſhould our Tongues be Talking of his Praiſe <hi>all the day long?</hi> It would extreamly well become <hi>Chriſtians</hi> to be telling one the other, <hi>What wonderful things this Bleſſed Jeſus hath done for them;</hi> I do not mean in the General Works of <hi>Creation</hi> and
+<hi>Redemption</hi> onely, but his particular Favours alſo, the Peace, the Joy, the Reſolution, the Strength, the Grace, they daily re<g ref="char:EOLhyphen"/>ceive from Communion with him. It can be no other than a Splendid Entertainment to the Piouſly Affect<g ref="char:EOLhyphen"/>ed <hi>(for they have Meat to eat that the World knows not of)</hi> to recount, how ſweetly they were at firſt Tranſlated from the Power of <hi>Satan,</hi> into the Kingdom of the <hi>Son of God;</hi> to tell, how often and long this Bleſſed Son of God ſtood and Knocked, by his Word, Miniſters, and Spirit, at the door of their hearts, before he ob<g ref="char:EOLhyphen"/>tain'd Audience; to declare, <hi>how he put his finger into the hole, and lifted
+<pb n="101" facs="tcp:98320:60"/>up the latch,</hi> i. e. took care to put back all Obſtructions and Impedi<g ref="char:EOLhyphen"/>ments with which the <hi>Devil,</hi> the
+<hi>World,</hi> and the <hi>Fleſh</hi> had bolted up our hearts; how pleaſant would be the Repetition of thoſe Paſſionate Per<g ref="char:EOLhyphen"/>ſwaſions, and Loving Promiſes, which the Son of God uſed, notwithſtand<g ref="char:EOLhyphen"/>ing the Unkindneſs he found; how he <hi>ſhed abroad in their Hearts</hi> his Gracious Influences, till at laſt, by the Aſſiduity of his Courtſhip, the Un<g ref="char:EOLhyphen"/>weariedneſs of his Patience, and the Fervour of his Love, he overcame their Folly and Perverſeneſs.</p>
+            <p>If the <hi>Shepherd</hi> not onely looks with pleaſure on the
+<hi>Lamb</hi> he wrench<g ref="char:EOLhyphen"/>ed from the Jaws of the hungry <hi>Wolf,</hi> but alſo believes the Relation of that Exploit acceptable to every Mild and Gentle Diſpoſition; Why ſhould not <hi>Chriſtians</hi> believe it as grateful to Communicate among themſelves, how often, and by what ways, this Great Shepherd, the Son of God, hath delivered them his Sheep from the Paws of that Cruel
+<pb n="102" facs="tcp:98320:61"/>Lion, who daily ſurrounded the Fold in expectation of his Prey? What can be more Joyful, than for one Chriſtian affectionately to relate to another, in what Combats with the Fleſh, what Bickerings with the World, and in what Buffetings of Sa<g ref="char:EOLhyphen"/>tan, they have been Supported, Re<g ref="char:EOLhyphen"/>lieved, and Comforted by this Son of God? How delightſome muſt it be for the formerly Afflicted to com<g ref="char:EOLhyphen"/>fort one that at preſent is in the like condition, by relating, how when he was overwhelm'd with diſmal Storms of Grief and Anxiety, when he ſailed in a Tempeſtuous Sea of Fears and A<g ref="char:EOLhyphen"/>gonies, and no Comfortable Light could on either hand be eſpy'd, that then this <hi>Son of Righteouſneſs</hi> brake out upon him, his Grace, Love and Mercy <hi>ſet them upon a Rock higher than themſelves;</hi> he <hi>brought them out, and ſet them in a large place,</hi> free, and far enough from all their Troubles: What Grace muſt ſuch Diſcourſes Mi<g ref="char:EOLhyphen"/>niſter to the Hearers? And moreo<g ref="char:EOLhyphen"/>ver, this way of entertaining one
+<pb n="103" facs="tcp:98320:61"/>another, would prevent a world of filthineſs, ſcurrility, fooliſh, and in<g ref="char:EOLhyphen"/>convenient talking.</p>
+            <p>There is naturally ſo great Corre<g ref="char:EOLhyphen"/>ſpondence between the Heart and the Tongue, that they are but few who delight not to ſpeak of that Subject which moſt poſſeſſes and pleaſes their Mind; Thus the Husbandman's whole Diſcourſe is of his Land, Manure<g ref="char:EOLhyphen"/>ment, Team, Plough, and Crop. The Souldier's Tongue runs of his Arms, Colours, Officers, Camps, Marches, and Engagements; and the very Huntſman will deaſen your eares with the Names and Qualities of his Dogs, the Obſtreperous terms of his Art, and the Diverſity of his Game; Muſt it not therefore argue a great poverty of Grace, and that our Souls delight not themſelves in the <hi>Lord,</hi> when good and Edifying Diſcourſe is ſo rare among us <hi>Chriſtians;</hi> eſpeci<g ref="char:EOLhyphen"/>ally if it be conſidered, that we have the greateſt reaſon, not onely barely to confeſs, but to make our boaſt of this Son of God all the day long.</p>
+            <p>
+               <pb n="104" facs="tcp:98320:62"/> But I muſt urge this Point farther; It is not an Oral Confeſſion onely, or an Exultation in <hi>Chriſt</hi> the Son of God that I aim at: For we Read a<g ref="char:EOLhyphen"/>mong the <hi>Primitive Chriſtians,</hi> there were ſome<note n="*" place="margin">Tit. 1.16.</note>, <hi>viz.</hi> the
+<hi>Gnoſticks,</hi> who did profeſs to know God, but in works they did deny him, being <hi>Abomina<g ref="char:EOLhyphen"/>ble,</hi> and <hi>Diſobedient,</hi> and unto <hi>every good Work Reprobate:</hi> too many ſuch Titular <hi>Chriſtians</hi> are to be found, who, were it not for the Oaths that fall from their Tongues, it were hard to ſay, that they had ever heard of <hi>Jeſus Chriſt,</hi> or did in the leaſt be<g ref="char:EOLhyphen"/>lieve him to be the Son of God; they are of ſuch Unchristian Tempers, ſuch Unſanctified Lives, that they can be accounted no other than
+<hi>Ene<g ref="char:EOLhyphen"/>mies of the Croſs of Chriſt.</hi> I do hear<g ref="char:EOLhyphen"/>tily wiſh that all looſe and diſſolute Chriſtians would ſeriouſly digeſt this Conſideration; How ill does Curſing, Swearing, Drunkenneſs, Whoredom, Prophaneneſs, Envy, Malice, or whate<g ref="char:EOLhyphen"/>ver elſe is of <hi>Evil Report,</hi> become them, who Profeſs themſelves Ser<g ref="char:EOLhyphen"/>vants
+<pb n="105" facs="tcp:98320:62"/>to the Holy Son of God; ſuch Perſons, notwithſtanding their ſpeci<g ref="char:EOLhyphen"/>ous Pretences, are not his Servants; for it is as well the Reſult of Reaſon, as the Declaration of <hi>Scripture</hi>
+               <note n="†" place="margin">Rom. 6.16.</note>, <hi>That Men are</hi> properly and rightful<g ref="char:EOLhyphen"/>ly <hi>their Servants, to whom they obey:</hi> The diſhonour muſt neceſſarily be very great, that Ungodly Profeſſors do to the Son of God; for, they cauſe <hi>his Name to be Evil Spoken of, his Deity Doubted,</hi> and <hi>his Goſpel to be Deſpiſed:</hi> for the Grand Reaſon why neither the <hi>Jews</hi> among us, nor other <hi>Infidels</hi> abroad, make more haſt to the <hi>Mountain of the Lord,</hi> is the palpable difference between the <hi>Goſpel</hi> of <hi>Jeſus Chriſt,</hi> and the Lives of them that Confeſs him; for they cannot eſcape all Wild and Extrava<g ref="char:EOLhyphen"/>gant Opinions of <hi>Chriſt,</hi> when they perceive how little Influence his Pre<g ref="char:EOLhyphen"/>cepts (allow'd for Holy, Juſt, and Good) have, upon their Manners, who pretend to be Govern'd by them.</p>
+            <p>
+               <pb n="106" facs="tcp:98320:63"/> Moreover, to Confeſs This <hi>Jeſus Chriſt</hi> the Son of God aright, doth imply the ſuppreſſing all Contra<g ref="char:EOLhyphen"/>dicting, or Blaſpheming of his Dei<g ref="char:EOLhyphen"/>ty; were I worthy, I ſhould hum<g ref="char:EOLhyphen"/>bly tender this Note where the power of a Redreſs is lodg'd.</p>
+            <p>Impiety is come to an high paſs, when openly in our Streets, the Bleſ<g ref="char:EOLhyphen"/>ſed and Glorious Trinity is Libell'd, and the Deity of <hi>Jeſus Chriſt</hi> im<g ref="char:EOLhyphen"/>pugn'd; this is one, but the worſt way of ſaying, Farewel to <hi>Chriſtia<g ref="char:EOLhyphen"/>nity:</hi> In this caſe, being God's Cauſe and Quarrel, I muſt take the liberty of ſaying, No <hi>Chriſtian</hi> Anſwers the end of his Profeſſion by a Cold Indifferency; he that contents himſelf with his own Orthodox Con<g ref="char:EOLhyphen"/>feſſion, and Regular Life, and doth not contribute, what lieth in him, to Diſcountenance and Suppreſs ſuch Blaſphemers, and their Blaſphemy, is but <hi>Almoſt</hi> (not ſo <hi>Altogether</hi>)
+<hi>a Chri<g ref="char:EOLhyphen"/>ſtian.</hi>
+               <note n="*" place="margin">Jude 3.</note> We are Exhorted, <hi>Earneſtly to contend for the Faith once deliver<g ref="char:EOLhyphen"/>ed to the Saints: Once delivered;</hi> ſo
+<pb n="107" facs="tcp:98320:63"/>that when once delivered, and re<g ref="char:EOLhyphen"/>ceived, if it be corrupted, or loſt, we have great Aſſurance of a Se<g ref="char:EOLhyphen"/>cond Edition.</p>
+            <p>It was <hi>Iſrael</hi>'s Fault, that when <hi>E<g ref="char:EOLhyphen"/>lijah</hi> was Contending hard with the Prophets of <hi>Baal</hi> for the Honour of the God of
+<hi>Iſrael,</hi>
+               <note n="*" place="margin">King. 18.21.</note> 
+               <hi>The People anſwer<g ref="char:EOLhyphen"/>ed him not a word:</hi> they ſeemed whol<g ref="char:EOLhyphen"/>ly unconcern'd, as if Religion had been a Matter onely for the Men of God, the Prophets and Prieſts, to trou<g ref="char:EOLhyphen"/>ble themſelves about; or, as if it were all one to them, to Serve <hi>God</hi> or <hi>Baal:</hi> The Prophet had called them to Recollect themſelves, and Judge which was the True God, and to <hi>Fol<g ref="char:EOLhyphen"/>low Him;</hi> I grant, the People were ſo Mannerly, as not to oppoſe the Prophet; but what was this, when in a matter of ſo great Importance, they ſhould have ſpoken on his ſide. But in this untoward Genera<g ref="char:EOLhyphen"/>tion, How unconcernedly doth one <hi>Chriſtian</hi> hear another? Nay, How patiently doth the Magiſtrate hear moſt Men Rend, Tear, and Blaſ<g ref="char:EOLhyphen"/>pheme
+<pb n="108" facs="tcp:98320:64"/>the Precious and Honourable Names of this Holy Son of God, yet ſhow little or no zeal, exert not the leaſt ſhadow of their Power to Con<g ref="char:EOLhyphen"/>troul them? and, which aggravates the matter, by ſo doing they are In<g ref="char:EOLhyphen"/>jurious both to God and the Poor: Such Perſons may be reputed Civil Magiſtrates, but their over-much Ci<g ref="char:EOLhyphen"/>vility is the Shame of their Office, the Growing Contempt of their Pow<g ref="char:EOLhyphen"/>er, and the General Reproach of
+<hi>Chri<g ref="char:EOLhyphen"/>ſtianity:</hi> I will yet Pray againſt this Wickedneſs, that if ſuch Careleſs Ma<g ref="char:EOLhyphen"/>giſtrates may not be <hi>overthrown in Sto<g ref="char:EOLhyphen"/>ny places</hi> for their too great Eaſineſs and Connivence; yet, that the Accu<g ref="char:EOLhyphen"/>stomed Swearers would hear my Words, and they muſt find them ſweet; You that can Deafen Mens Ears, and even Chill the Blood of Conſcientious
+<hi>Chriſtians</hi> with the Vol<g ref="char:EOLhyphen"/>lies of moſt Deſperate Oaths and Curſes, what Anſwer will you ſhape at the laſt day? Think you that you ſhall not bluſh, and be confounded, when you behold him Arrayed with
+<pb n="109" facs="tcp:98320:64"/>Glorious Majeſty, and ſit on the Great Tribunal, whoſe Name you have made ſo Vile and Trivial, whoſe Blood you have deſpiſed, and <hi>Tram<g ref="char:EOLhyphen"/>pled under Feet;</hi> whoſe Wounds your Mouths have Torn Wider and Rank<g ref="char:EOLhyphen"/>led; here Men look'd upon you as deſperate Fools, ſo Often, ſo Loudly, ſo Heartily to Imprecate, what you would not, for the World, ſhould have befallen you: there you ſhall find your Jeſt converted into Earneſt, and feel that Puniſhment Inflicted, that, had you Ten thouſand Worlds to give, you could get no Releaſe from: Oh that Men were wiſe, and would conſider what ſhall befall them in the end, who, in ſtead of Confeſſing <hi>Jeſus Chriſt</hi> the Son of God, ſo Mon<g ref="char:EOLhyphen"/>ſtrouſly Blaſpheme his Name and Deity.</p>
+            <p>Upon this Foundation, that <hi>Jeſus Chriſt,</hi> the Son of the Virgin
+<hi>Mary,</hi> is the Son of God, and Head of the <hi>Church,</hi> next to that of our open Confeſſing of him, we may raiſe this other Story<note n="*" place="margin">Rom. 13.14.</note>, <hi>Put on the Lord Jeſus
+<pb n="110" facs="tcp:98320:65"/>Chriſty, and make not proviſion for the Fleſh to fullfill the Luſts thereof.</hi>
+            </p>
+            <p>Their Converſations who are called by the Name of Chriſt, and profeſs to believe him to be God, ought to be in all Purity as becometh the Go<g ref="char:EOLhyphen"/>ſpel of Chriſt; they are oblig'd to act as is moſt ſuitable to their being Members of that Body, of which the Son of God is Head; they muſt in all things live as true Diſciples in that School of which the Holy Jeſus is the head Maſter, not entertaining them<g ref="char:EOLhyphen"/>ſelves with carnal and ſenſual Delights. <hi>Hypocrates</hi> ordered each of his Fol<g ref="char:EOLhyphen"/>lowers to take this Oath;
+<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, I will maintain my Profeſſtion unſpot<g ref="char:EOLhyphen"/>ted, and my Converſation uncorrup<g ref="char:EOLhyphen"/>ted. If he judg'd it ſo expedient for the Honour of Phyſick, that the pra<g ref="char:EOLhyphen"/>ctiſers thereof ſhould be ſo Upright and Vertuous, how much greater care may the Inſtitutor of our Religi<g ref="char:EOLhyphen"/>on challenge from us that in no good thing we come behind other Men; inſomuch as the Precepts he has com<g ref="char:EOLhyphen"/>mended
+<pb n="111" facs="tcp:98320:65"/>to our Obſervation, are of a more Sublime and excellent Nature, and lead to a greater perfection than ever was attainable by that or any o<g ref="char:EOLhyphen"/>ther Art whatſoever.</p>
+            <p>A Chriſtian ought to be no other than a lively pattern or repreſentati<g ref="char:EOLhyphen"/>on of Chriſt, exhibiting daily in his Converſation thoſe admirable Graces and Vertues which were ſo eminent in the Original; therefore are ſuch com<g ref="char:EOLhyphen"/>manded to put on Chriſt, by a moſt ſtrict imitation of him; <hi>Qui Chri<g ref="char:EOLhyphen"/>ſtum induit omnem virtutem habet,</hi> he that puts on Chriſt muſt become Ho<g ref="char:EOLhyphen"/>ly in every reſpect as he was; more<g ref="char:EOLhyphen"/>over this putting on, muſt be with<g ref="char:EOLhyphen"/>out any intentions of depoſiting a<g ref="char:EOLhyphen"/>gain; I grant there are ſome (would their number were leſs) who put on Chriſt after the ſame manner that the reſemblance of a man's Face is put on a Glaſs, which is but for a mo<g ref="char:EOLhyphen"/>ment, no longer than the Perſon ſtands by; thus ſome have put on Chriſt by Baptiſm, and others for a fit <hi>ad Sacramenti perceptionem,</hi> in or<g ref="char:EOLhyphen"/>der
+<pb n="112" facs="tcp:98320:66"/>to receive the Sacrament, but this is not the putting on which is required, for that ought to be <hi>uſque ad vitae ſanctificationem,</hi> to the ſanctifying of the whole life; their Souls and Bodies, Minds and Spirits, their Thoughts, Words and Deeds ought to be influenced and directed altoge<g ref="char:EOLhyphen"/>ther by their Profeſſion.</p>
+            <p>
+               <hi>We Chriſtians are bought with a price</hi>
+               <note n="*" place="margin">1 Cor. 6.20.</note>, viz. The Blood of the Son of God, and therefore muſt glorifie God in our Bodies and in our Spirits which are Gods; our Bodies as well as Souls were his purchaſe, and there<g ref="char:EOLhyphen"/>fore both are to be devoted to his ſervice; no Chriſtian is <hi>Vir ſui Juris,</hi> his own free Man; we are not to ſerve our ſelves, nor to live unto our ſelves, but unto the Lord. It is ſaid of <hi>Scipio,</hi> that when at a Feaſt (where it might have been thought his Blood had been heated) an Harlot, beau<g ref="char:EOLhyphen"/>tiful and gay, preſented her ſelf; ſuch a Temptation, together with ſuch an Opportunity, was gallantly reſiſted upon this ſingle conſideration,
+<hi>Vel<g ref="char:EOLhyphen"/>lem
+<pb n="113" facs="tcp:98320:66"/>ſi non eſſem Imperator,</hi> were I not a General I ſhould comply. <hi>Menede<g ref="char:EOLhyphen"/>mus</hi> preſerved <hi>Antigonus</hi> in the like Aſſault, by timely adviſing him to remember that he was a King's Son; Chriſtians have the advantage of far greater conſiderations to put back all evil Suggeſtions, we are Sons of God, Friends of Chriſt, we are a peculiar People, a Royal Prieſt-hood, nay Co heirs with Chriſt, and there<g ref="char:EOLhyphen"/>fore as ſaith the Apoſtle<note n="*" place="margin">Phil. 2.5.</note>, <hi>The ſame mind ought to be in them as was in Chriſt,</hi> i. e never to condeſcend to any thing repugnant to their Princi<g ref="char:EOLhyphen"/>ples, or beneath their preſent Digni<g ref="char:EOLhyphen"/>ty and future Expectations.</p>
+            <p>How monſtrous a ſight is it to ſee ſuch who believe in God, offering themſelves in Vaſſalage to Sin and <hi>Sa<g ref="char:EOLhyphen"/>tan,</hi> or ſuch who are acquainted that it is God's pleaſure to give them an Hea<g ref="char:EOLhyphen"/>venly Kingdom, loſing themſelves in the purſuit of Earthly things, or for ſuch who acknowledge the Son of God to be their only Lord, to be led Cap<g ref="char:EOLhyphen"/>tives by the Devil at his will; let us
+<pb n="114" facs="tcp:98320:67"/>therefore as becometh Chriſtians caſt off every work of Darkneſs, and ſerve the Lord that bought us in Holineſs and Righteouſneſs; let us put on Chriſt in our Affections and Actions, let us be renewed in our Minds, that our Affections may become Holy and Spiritual; let us ſanctifie God in our hearts, that ſo our Actions may be pious, juſt and unblameable, that all may ſee the life that we hencefor<g ref="char:EOLhyphen"/>ward live in the Fleſh, we live by the Faith of the Son of God, who lo<g ref="char:EOLhyphen"/>ved us and gave himſelf for us.</p>
+            <p>There is a Seemlineſs or Comelineſs proper to every Calling, as is very obſervable, but Chriſtianity is a pecu<g ref="char:EOLhyphen"/>liar Calling diſtinct from, and vaſtly ſurpaſſing all other; ſome things may be tolerable in others, which are no ways allowable in this, and therefore we are called upon<note n="*" place="margin">Ephſ. 4.1</note>, <hi>to walk worthy of our Vocation;</hi> we have more ample Revelations of the will of God than others, we have better Principles, greater Helps, fairer Promiſes, and a moſt perfect Example, and therefore
+<pb n="115" facs="tcp:98320:67"/>for us after all theſe to walk after the cuſtoms of the preſent evil World, were altogether inexcuſable.</p>
+            <p>
+               <hi>Luther</hi> was wont to ſay, that Chri<g ref="char:EOLhyphen"/>ſtians in their ſtrongeſt Aſſaults might make much better Defence than they uſually do, if they reply'd when tempted, <hi>Chriſtiani ſumus,</hi> we are Chriſtians. We are Chriſtians, ſuch as are bound by our Baptiſmal Vow to fight againſt the <hi>World,</hi> the <hi>Fleſh</hi> and the <hi>Devil;</hi> we above all Men are not to play the Cowards, and make a faint Reſiſtance, ſeeing that we have an Armoury and are provided for all points; we have an Helmet and Breſt<g ref="char:EOLhyphen"/>plate, a Girdle and Shield, and like<g ref="char:EOLhyphen"/>wiſe we have the Sword of the Spirit wherewith to Wound and Baffle our Enemies; this is an approved Wea<g ref="char:EOLhyphen"/>pon, with this our Saviour conquer'd the Devil. We are Chriſtians, we pro<g ref="char:EOLhyphen"/>feſs to have our Converſation in Hea<g ref="char:EOLhyphen"/>ven, notwithſtanding our commorati<g ref="char:EOLhyphen"/>on be on Earth; and therefore an Ea<g ref="char:EOLhyphen"/>gle may as ſoon ſtoop at a Fly, as a Chriſtian to worldly Allurements.
+<pb n="116" facs="tcp:98320:68"/>We are Chriſtians, ſuch as declare themſelves dead to theſe things, and therefore to give them any room in our hearts, were to give the lye to our Profeſſion. We are Chriſtians, ſuch who have a ſure word of promiſe for things neceſſary, and therefore how unbeſeeming us is it to uſe any in<g ref="char:EOLhyphen"/>direct means to compaſs that which is already ſecured to us in the bounti<g ref="char:EOLhyphen"/>ful Providence of our Heavenly Fa<g ref="char:EOLhyphen"/>ther? We are Chriſtians, the Ser<g ref="char:EOLhyphen"/>vants and followers of the Son of God, and we believe his Eye to be upon us, during all our Conflicts with Temptations: We cannot likewiſe but believe our noble, reſolute and courageous behaviour will be accep<g ref="char:EOLhyphen"/>table to him, and that to the intent we may prevail and perſevere, he will in pure Compaſſion (knowing our Fra<g ref="char:EOLhyphen"/>ilty,) proportion the Grate he ſends us by the Temptations he permits up<g ref="char:EOLhyphen"/>on us; and ſo if we are called forth to; wreſtle againſt Principalities and Powers, all the Ranks of <hi>Devils,</hi> yet Jeſus Chriſt the Son of God, and
+<pb n="117" facs="tcp:98320:68"/>Captain of our <hi>Salvation,</hi> will afford us ſuch ſupply as we ſhall be able to ſtand. We are Chriſtians, we muſt therefore Watch and Pray that we fall not under <hi>Temptation,</hi> we muſt ſtrengthen our ſelves in the Lord, in his Example, in his Precepts, and in his Promiſes; we muſt gird our ſelves unto the Battle, becauſe we ſhall reap if we faint not, if we finiſh our war<g ref="char:EOLhyphen"/>fare gallantly and as becometh Chri<g ref="char:EOLhyphen"/>ſtians, there is certainly a Crown of immarceſſible Glory prepared for us; this is worth ſighting for, which brings me to the laſt and higheſt Story I ſhall or can raiſe upon this Foundation.</p>
+            <p>Is Jeſus Chriſt the Son of the Vir<g ref="char:EOLhyphen"/>gin <hi>Mary</hi> God? Is he the head of the Church? Do all true Chriſtians put him on, walking after his Example and to his Will, then as true as he is God, all ſuch as thus do, ſhall be moſt plentifully rewarded.</p>
+            <p>The Chriſtian Religion was calcu<g ref="char:EOLhyphen"/>lated, it is true, <hi>for the Humble and Poor in Spirit,</hi> but yet not for ſuch
+<pb n="118" facs="tcp:98320:69"/>mean Spirits as act no farther than they are inſtigated by a proſpect of advantage, when we have done all our acknowledgment muſt be that we are but unprofitable Servants, our Lord hath been no gainer by us, we have not anſwered what of right was due from us upon the Score of our Creation; therefore not being ſolvent and in capacity to diſcharge that firſt Debt, it is no other than Arrogance and Preſumption to make Conditions with God, and to limit our perfor<g ref="char:EOLhyphen"/>mances by the Hopes or Emanations of his Bounty; yet ſuch is his infinite Condeſcenſion, that though a Reward may not be the ſole Reaſon, yet we permitted to look upon it as the en<g ref="char:EOLhyphen"/>couragement of our ſervices.</p>
+            <p>
+               <hi>Moſes</hi> expreſſed great Faith and Pa<g ref="char:EOLhyphen"/>tience, refuſing the pleaſures of <hi>Egypt,</hi> which were doubtleſs every way correſponding to the deſires of Hu<g ref="char:EOLhyphen"/>mane Nature; the purchaſe of theſe requir'd no farther toil and labour of him than a gratefull acceptance; yet theſe ſo great, ſo eaſily acquir'd, he
+<pb n="119" facs="tcp:98320:69"/>forſook and choſe rather to endure Afflicton. That which chiefly encou<g ref="char:EOLhyphen"/>raged this exchange, was<note n="†" place="margin">Heb. 11.26.</note> 
+               <hi>He had reſpect unto the Recompence of the Re<g ref="char:EOLhyphen"/>ward.</hi>
+            </p>
+            <p>Our Bleſſed Saviour ſweetned the burden of his Yoak and the Tortures of his Croſs, by the propoſal as well of preſent as future Rewards; he did aſſure them that if they would dili<g ref="char:EOLhyphen"/>gently mind the one thing needful, all other things ſhould be added to them, they might do their Duty and caſt the care of themſelves upon God, and they ſhould find from him
+<hi>Pro<g ref="char:EOLhyphen"/>vidential Goodneſs</hi> that he did certain<g ref="char:EOLhyphen"/>ly care for them; this can inferr no leſs than that we abound <hi>in the Work of the Lord, in as much as we are a<g ref="char:EOLhyphen"/>ſcertain'd our Labour ſhall not be in vain in the Lord,</hi> our Hopes ſhall not be fruſtrated. He that had the love to promiſe a Remuneration, hath the power to beſtow it, for now we know he is God, and doth as well in Heaven as on Earth whatſoever plea<g ref="char:EOLhyphen"/>ſeth him.</p>
+            <p>
+               <pb n="120" facs="tcp:98320:70"/> Hearken we therefore for our en<g ref="char:EOLhyphen"/>couragement to his gracious Promi<g ref="char:EOLhyphen"/>ſes<note n="*" place="margin">Mat. 10.32.</note>,
+<hi>Whoſoever therefore ſhall confeſs me before Men, him alſo will I confeſs before my Father which is in Heaven.</hi> He that on Earth ſhall confeſs my De<g ref="char:EOLhyphen"/>ity, and by Words and Deeds, make an open Confeſſion of me, and if thereunto called ſhall in deſpite of Danger and Death ſtick to the ſame profeſſion of Faith, every ſuch Perſon may reſt ſatisfied his ſo doing ſhall not be forgotten, but a faithful Reward ſhall be made thereof in Heaven; no wonder therefore to hear St. <hi>Paul</hi> crying out,
+<hi>Wo unto me if I preach not the Goſpel of Jeſus Chriſt,</hi> or to ſee him and others of the ſame Principles re<g ref="char:EOLhyphen"/>joicing in that they were counted worthy to ſuffer ſhame for the confeſ<g ref="char:EOLhyphen"/>ſing of Chriſt, for they had the pro<g ref="char:EOLhyphen"/>miſe of being glorified with him for whom they ſuffered.</p>
+            <p>What therefore though Troubles and Croſſes, though Shame and Sor<g ref="char:EOLhyphen"/>row, though Want and Miſery, <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="121" facs="tcp:98320:70"/>Torture and Death abide us for pro<g ref="char:EOLhyphen"/>feſſing the Goſpel of Jeſus Chriſt, yet let not us be daunted, but in ſuch ex<g ref="char:EOLhyphen"/>tremities let us follow the Apoſtles Counſel;<note n="*" place="margin">Heb. 12.2.</note> 
+               <hi>Look unto Jeſus the Author and Finiſher of our Faith, who for the Joy that was ſet before him, endured the Croſs, deſpiſing the ſhame, and is ſet down at the right hand of the Throne of God:</hi> This Conſideration, this no<g ref="char:EOLhyphen"/>ble Preſident will help us againſt fain<g ref="char:EOLhyphen"/>ting in our Minds, under the greateſt Perſecutions, what extremities did the Son of God ſubmit to for the pleaſure he took in reſtoring loſt Man? The happineſs he was about to purchaſe for them, outweighed all the Trouble and Anguiſh that lay in the way to it; in like manner ſeeing we have the expectation of Bliſs and Joy ground<g ref="char:EOLhyphen"/>ed on never failing Promiſes, let us call to mind this Example of our Lord, and if the time come that we the Ser<g ref="char:EOLhyphen"/>vants ſhall meet with harſher Treat<g ref="char:EOLhyphen"/>ment than what the Maſter of the Houſhold found, let us bear up cou<g ref="char:EOLhyphen"/>rageouſly,
+<pb n="122" facs="tcp:98320:71"/>remembring the Joy ſet be<g ref="char:EOLhyphen"/>fore us in the promiſe, and which ſhall be fullfill'd in the Kingdom of Heaven. Nor is this conſideration on<g ref="char:EOLhyphen"/>ly uſefull to the ſuſtaining part of a Chriſtian's Life, but it hath its force and energy in the abſtaining part al<g ref="char:EOLhyphen"/>ſo; we look upon it as the effect of an immature judgment to exchange Pearls for Shells, or Gold for Glaſs; and ſhall our Conſciences condemn us as Children in underſtanding, as no<g ref="char:EOLhyphen"/>vices in the Faith; while for the Tan<g ref="char:EOLhyphen"/>talizing Pleaſures, the glittering Honours, and faint profits of this life we hazard the Joys, the Plea<g ref="char:EOLhyphen"/>ſures, the Honours, and the Happi<g ref="char:EOLhyphen"/>neſs of the next, eſpecially when it ſhall be conſidered we had a title to a competency of theſe without our in<g ref="char:EOLhyphen"/>ordinate care, and willfull neglect of the other.</p>
+            <p>Remember how careful and ſollici<g ref="char:EOLhyphen"/>tous our Saviour was for his Diſci<g ref="char:EOLhyphen"/>ples; Father, I will that they alſo
+<pb n="123" facs="tcp:98320:71"/>whom thou haſt given me be with me, where I am that they may be<g ref="char:EOLhyphen"/>hold my Glory which thou haſt gi<g ref="char:EOLhyphen"/>ven me, this proviſion was not boun<g ref="char:EOLhyphen"/>ded in the Apoſtles, but extended to all Ages and Corners of the World, in as much as it is ſaid<note n="*" place="margin">Joh. 17.20.</note>, <hi>He did not pray for his Diſciples alone, but for them alſo which ſhould believe on him through their Word.</hi> You may hear the whole matter,<note n="†" place="margin">Joh. 14 1, 2, 3.</note> Our ſaviour be<g ref="char:EOLhyphen"/>fore his Departure was comforting his Diſciples, <hi>Let not your heart be troubled, you believe in God, believe alſo in Me, in my Father's Houſe are many Manſions:</hi> Heaven is Spacious, I go to prepare a place for you, I deſert you not as one weary of your Society, or as one ſickle in my choice and love, but I deſign your Good, I came on Earth to prepare you for Heaven, and now I go again to pre<g ref="char:EOLhyphen"/>pare Heaven for you, for my full in<g ref="char:EOLhyphen"/>tention is where I am you ſhall be, as I am you ſhall be.</p>
+            <p>
+               <pb n="124" facs="tcp:98320:72"/> Let us pluck up our Spirits and buckle to the ſeveral Duties of our Chriſtian Calling without fainting, not being weary of well doing, for we have great things beyond expreſ<g ref="char:EOLhyphen"/>ſion to receive hereafter; I ſhall con<g ref="char:EOLhyphen"/>clude with St. <hi>Paul</hi>'s Exhortation<note n="†" place="margin">2 Tim. 1.12, 13.</note>, we Chriſtians <hi>are not to be aſhamed,</hi> nor is there any reaſon we ſhould be aſhamed, <hi>for we know whom we have believed,</hi> viz. Jeſus Chriſt who is the Son of God, and therefore we may be ſatisfied that he being God is able to keep what we commit unto him; let us therefore hold faſt and inviola<g ref="char:EOLhyphen"/>ble, both as to corruption from o<g ref="char:EOLhyphen"/>thers, and from contradiction in our own lives, that Jeſus Chriſt the Son of the Virgin <hi>Mary</hi> is perfect God and Head of his Church, that we are bound to confeſs this both in word and in the manner of our living, and that we are to live to his Honour and Glory, and thus doing, we ſhall at the laſt Day receive Crowns of Glory at the hands of that Righteous Judge,
+<pb n="125" facs="tcp:98320:72"/>who has prepar'd moſt glorious Re<g ref="char:EOLhyphen"/>wards for all that love his Appearing. <hi>To whom he Glory and Honour, might Majesty and Dominion, World without End.</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
